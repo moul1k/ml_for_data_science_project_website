@@ -6,18 +6,35 @@
 <meta name="theme-color" content="#090e19">
 <meta name="description" content="Exploring Exoplanets: Project for Machine Learning for Data Science by Moulik Kumar.">
 <title>Exploring Exoplanets · Moulik Kumar</title>
-<link rel="stylesheet" href="style.css">
-<script defer src="script.js"></script>
+<link rel="stylesheet" href="style.css?v=20260920c">
+<script defer src="script.js?v=20260920c"></script>
 </head>
 <body>
 <a class="skip" href="#research">Skip to research</a>
 <header class="masthead" id="top">
-  <a class="brand" href="#system" id="home-link">Exploring Exoplanets</a>
-  <p>Project for Machine Learning for Data Science <span aria-hidden="true">·</span> Moulik Kumar</p>
+  <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open section navigator" aria-expanded="false" aria-controls="section-drawer"><span></span><span></span><span></span></button>
+  <a class="header-mark" href="#system" id="home-link">EXOPLANETS <span class="mark-star" aria-hidden="true">✦</span></a>
+  <span class="header-author">Moulik Kumar</span>
 </header>
+<div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+<nav class="section-drawer" id="section-drawer" aria-label="Section navigator" aria-hidden="true" inert>
+  <div class="drawer-heading"><span>EXPLORE THE SYSTEM</span><button id="menu-close" class="menu-close" type="button" aria-label="Close navigator">×</button></div>
+  <a class="drawer-home" href="#system">↗ Solar system overview</a>
+  <a href="#Introduction"><span>Sun</span><strong>Introduction</strong></a>
+  <a href="#DataPrep_EDA"><span>Mercury</span><strong>DataPrep_EDA</strong></a>
+  <a href="#Clustering"><span>Venus</span><strong>Clustering</strong></a>
+  <a href="#PCA"><span>Earth</span><strong>PCA</strong></a>
+  <a href="#NaiveBayes"><span>Mars</span><strong>NaiveBayes</strong></a>
+  <a href="#DecTrees"><span>Jupiter</span><strong>DecTrees</strong></a>
+  <a href="#SVMs"><span>Saturn</span><strong>SVMs</strong></a>
+  <a href="#Regression"><span>Uranus</span><strong>Regression</strong></a>
+  <a href="#NN"><span>Neptune</span><strong>NN</strong></a>
+  <a href="#Conclusions"><span>Pluto</span><strong>Conclusions</strong></a>
+</nav>
 <main>
   <section class="hero" id="system" aria-label="Interactive solar system navigation">
     <div class="starfield" aria-hidden="true"></div>
+    <div class="hero-intro"><h1>Exploring Exoplanets<span class="title-spark" aria-hidden="true">✦</span></h1><p>A journey through the worlds beyond our solar system, powered by data.</p><span class="project-line">Machine Learning for Data Science <span aria-hidden="true">·</span> Moulik Kumar</span></div>
     <div class="system-stage" id="system-stage">
       <svg class="orbit-art" id="orbit-art" aria-hidden="true" preserveAspectRatio="none"></svg>
       <a class="world sun" href="#Introduction" data-go="Introduction" data-orbit="0" data-angle="0" data-period="0" aria-label="Sun: Introduction"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Sun</strong><small>Introduction</small></span></a>
@@ -31,7 +48,7 @@
 <a class="world neptune" href="#NN" data-go="NN" data-orbit="8" data-angle="202" data-period="575" aria-label="Neptune: Neural networks"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Neptune</strong><small>Neural networks</small></span></a>
 <a class="world pluto" href="#Conclusions" data-go="Conclusions" data-orbit="9" data-angle="296" data-period="630" aria-label="Pluto: Conclusions"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Pluto</strong><small>Conclusions</small></span></a>
     </div>
-    <p class="hero-hint">Choose a world to explore <span aria-hidden="true">·</span> Illustration not to scale</p>
+    <p class="hero-hint">Select a planet to explore <span aria-hidden="true">·</span> Illustration not to scale</p>
   </section>
   <section class="workspace" id="research" aria-label="Research content" hidden>
     <div class="research-bar"><a href="#system" id="overview">↑ Solar system</a><span id="current-section" aria-live="polite"></span></div>
