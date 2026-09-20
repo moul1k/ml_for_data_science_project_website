@@ -1,6 +1,7 @@
 # Exoplanet Research Website
 
-**Moulik Kumar**  
+**Moulik Kumar**
+
 Project Assignment 1 — Machine Learning for Data Science
 
 This project explores planets outside our Solar System and their physical, orbital, and discovery characteristics.
