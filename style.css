@@ -120,3 +120,27 @@ h1,h2,h3,.world-label,.header-mark,.eyebrow,.drawer-heading,.section-drawer{font
 .findings-grid span{display:block;color:#8ba3ca;font-family:'Space Grotesk','DM Sans',sans-serif;font-size:11px;letter-spacing:.14em}
 .findings-grid p{margin:10px 0 0;font-size:15px;line-height:1.65}
 @media(max-width:700px){.module-toc,.findings-grid{grid-template-columns:1fr}.module-page h3{margin-top:54px}.eda-theme{margin:42px 0 58px}.module-page .figures{gap:30px}.module-page .figure figcaption p{font-size:15px}.resource-links{gap:12px}}
+
+/* Roaming About Me spacecraft */
+.about-spaceship{position:absolute;left:10%;top:57%;z-index:15;display:flex;align-items:center;gap:7px;padding:5px 9px 5px 6px;border:1px solid #6982aa66;border-radius:999px;background:#0a1220d9;color:#edf4ff;box-shadow:0 4px 18px #02071199,0 0 18px #8fb3ff24;cursor:pointer;animation:spaceship-roam 28s ease-in-out infinite;will-change:left,top,transform}
+.about-spaceship:hover,.about-spaceship:focus-visible{animation-play-state:paused;border-color:#adc7f1;background:#14243b;z-index:21}
+.spaceship-icon{display:block;font-size:22px;line-height:1;transform:rotate(-43deg);filter:drop-shadow(0 0 7px #8dbbff)}
+.spaceship-label{font-family:'Space Grotesk','DM Sans',sans-serif;font-size:10px;letter-spacing:.06em;white-space:nowrap}
+@keyframes spaceship-roam{0%{left:9%;top:61%;transform:translate(-50%,-50%) rotate(-4deg)}18%{left:27%;top:76%;transform:translate(-50%,-50%) rotate(5deg)}39%{left:70%;top:79%;transform:translate(-50%,-50%) rotate(-3deg)}58%{left:89%;top:52%;transform:translate(-50%,-50%) rotate(6deg)}77%{left:66%;top:34%;transform:translate(-50%,-50%) rotate(-5deg)}100%{left:22%;top:40%;transform:translate(-50%,-50%) rotate(4deg)}}
+.about-dialog{width:min(620px,calc(100vw - 32px));max-height:min(82vh,760px);padding:clamp(22px,4vw,40px);border:1px solid #52698d;border-radius:14px;background:linear-gradient(145deg,#111d30,#0b1423 74%);color:#eef3fb;box-shadow:0 30px 100px #02050bd9;overflow:auto}
+.about-dialog::backdrop{background:#020711c7;backdrop-filter:blur(5px)}
+.about-dialog-header{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.about-dialog-header .eyebrow{margin:0}
+.about-close{width:36px;height:36px;padding:0;border:1px solid #43597a;border-radius:50%;background:transparent;color:#e7effd;font-size:25px;line-height:1;cursor:pointer}
+.about-close:hover,.about-close:focus-visible{border-color:#a9c1e8;background:#182942}
+.about-dialog h2{margin:17px 0 20px;font-family:'Space Grotesk','DM Sans',sans-serif;font-size:clamp(32px,5vw,48px);font-weight:600;letter-spacing:-.045em;line-height:1.05}
+.about-dialog>p{margin:15px 0;color:#cad5e5;font-size:16px;line-height:1.7}
+.about-reading{margin:27px 0 25px;padding:20px;border:1px solid #30435f;border-radius:9px;background:#0a1423}
+.about-reading .eyebrow{margin:0 0 12px}
+.about-reading ul{display:grid;gap:8px;margin:0;padding:0;list-style:none}
+.about-reading li{color:#9eacc0;font-size:14px}
+.about-reading a{color:#e9f1ff;font-family:'Space Grotesk','DM Sans',sans-serif;font-size:16px;text-underline-offset:3px}
+.steam-link{display:inline-flex;padding:10px 15px;border:1px solid #58749d;border-radius:999px;color:#e8f1ff;text-decoration:none;font-family:'Space Grotesk','DM Sans',sans-serif;font-size:13px}
+.steam-link:hover,.steam-link:focus-visible{background:#172941;border-color:#9ab8e5}
+@media(max-width:700px){.about-spaceship{padding:5px}.spaceship-label{position:absolute;top:calc(100% + 5px);left:50%;transform:translateX(-50%);padding:2px 5px;border-radius:4px;background:#070d18d9}.spaceship-icon{font-size:19px}.about-dialog{max-height:86vh;padding:22px}.about-dialog>p{font-size:15px}.about-reading{padding:15px}}
+@media(prefers-reduced-motion:reduce){.about-spaceship{left:82%;top:70%;animation:none;transform:translate(-50%,-50%)}}

@@ -12,6 +12,9 @@
   const drawer = document.getElementById('section-drawer');
   const backdrop = document.getElementById('drawer-backdrop');
   const drawerLinks = [...drawer.querySelectorAll('a')];
+  const aboutTrigger = document.getElementById('about-spaceship');
+  const aboutDialog = document.getElementById('about-dialog');
+  const aboutClose = document.getElementById('about-close');
   let previousFocus;
   function setMenu(open, restoreFocus = true) {
     drawer.classList.toggle('is-open', open);
@@ -28,6 +31,14 @@
   menuClose.addEventListener('click', () => setMenu(false));
   backdrop.addEventListener('click', () => setMenu(false));
   drawerLinks.forEach(link => link.addEventListener('click', () => setMenu(false, false)));
+  aboutTrigger.addEventListener('click', () => aboutDialog.showModal());
+  aboutClose.addEventListener('click', () => aboutDialog.close());
+  aboutDialog.addEventListener('click', event => {
+    const box = aboutDialog.getBoundingClientRect();
+    const outside = event.clientX < box.left || event.clientX > box.right || event.clientY < box.top || event.clientY > box.bottom;
+    if (outside) aboutDialog.close();
+  });
+  aboutDialog.addEventListener('close', () => aboutTrigger.focus());
   document.addEventListener('keydown', e => {
     if (!drawer.classList.contains('is-open')) return;
     if (e.key === 'Escape') { setMenu(false); return; }
