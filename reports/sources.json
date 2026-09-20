@@ -1,0 +1,9 @@
+{
+  "retrieved_utc": "2026-09-20T18:07:48.214993+00:00",
+  "nasa_api_endpoint": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync",
+  "nasa_get_url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=SELECT+pl_name%2C+pl_rade%2C+pl_bmasse%2C+pl_orbper%2C+pl_orbsmax%2C+pl_orbeccen%2C+st_teff%2C+st_mass%2C+st_rad%2C+disc_year%2C+discoverymethod%2C+sy_dist+FROM+pscomppars&format=csv",
+  "nasa_query": "SELECT pl_name, pl_rade, pl_bmasse, pl_orbper, pl_orbsmax, pl_orbeccen, st_teff, st_mass, st_rad, disc_year, discoverymethod, sy_dist FROM pscomppars",
+  "nasa_table": "pscomppars",
+  "secondary_download_url": "https://raw.githubusercontent.com/OpenExoplanetCatalogue/oec_tables/master/comma_separated/open_exoplanet_catalogue.txt",
+  "secondary_note": "Supplementary source; not independent of NASA, may be dated."
+}

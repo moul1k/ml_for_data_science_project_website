@@ -1,0 +1,5 @@
+Planets: 6366
+Median radius (Earth radii): 2.870
+Median mass (Earth masses): 9.400
+Median orbital period (days): 10.746
+Mass-radius Pearson r: 0.451

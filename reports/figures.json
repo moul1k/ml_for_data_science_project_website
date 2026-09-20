@@ -1,0 +1,62 @@
+[
+  {
+    "file": "figures/01_radius.png",
+    "title": "Planet radius distribution",
+    "n": 6316,
+    "description": "Distribution among planets with reported positive radii; missing radii are excluded."
+  },
+  {
+    "file": "figures/02_mass.png",
+    "title": "Planet mass distribution",
+    "n": 6335,
+    "description": "Log-scaled masses among planets with mass estimates; different mass-estimation methods may be represented."
+  },
+  {
+    "file": "figures/03_period.png",
+    "title": "Orbital period distribution",
+    "n": 6016,
+    "description": "Reported positive orbital periods on a logarithmic axis; missing periods are excluded."
+  },
+  {
+    "file": "figures/04_radius_boxplot.png",
+    "title": "Planet radius: spread and outliers",
+    "n": 6316,
+    "description": "Boxplot whiskers use a statistical convention; points beyond them are not automatically errors."
+  },
+  {
+    "file": "figures/05_mass_radius.png",
+    "title": "Planet mass versus radius",
+    "n": 6292,
+    "description": "Only planets with both measurements appear; association does not establish causation."
+  },
+  {
+    "file": "figures/06_period_distance.png",
+    "title": "Orbital period versus orbital distance",
+    "n": 5593,
+    "description": "A relationship is expected from orbital mechanics; host-star mass also matters."
+  },
+  {
+    "file": "figures/07_methods.png",
+    "title": "Planets by discovery method",
+    "n": 6366,
+    "description": "These are catalogue counts, not a comparison of intrinsic method quality or universe-wide occurrence."
+  },
+  {
+    "file": "figures/08_year.png",
+    "title": "Discoveries by year",
+    "n": 6366,
+    "description": "Counts reflect discoveries recorded in this catalogue; the current year may be incomplete."
+  },
+  {
+    "file": "figures/09_star_temp.png",
+    "title": "Host-star temperature versus planet radius",
+    "n": 6013,
+    "description": "Only systems with both measurements appear; discovery selection may influence the pattern."
+  },
+  {
+    "file": "figures/10_correlations.png",
+    "title": "Pairwise Pearson correlations",
+    "n": 6366,
+    "description": "Each correlation uses available pairs and may have a different sample size; Pearson r measures linear association only."
+  }
+]
