@@ -1,8 +1,4 @@
 # Exoplanet Module 1 — Python scripts
-
-These three scripts split `ml4ds_assignment1_colab.ipynb` into the same collection, cleaning, and EDA stages. Place this **code/** folder at the root of `ml_for_data_science_project_website`.
-
-```text
 ml_for_data_science_project_website/
 ├── code/
 │   ├── 01_collect.py
