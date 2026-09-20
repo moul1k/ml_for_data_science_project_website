@@ -1,34 +1,41 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#050915"><meta name="description" content="Exploring Exoplanets — a data science project by Moulik Kumar.">
-<title>Exploring Exoplanets · Moulik Kumar</title><link rel="stylesheet" href="style.css">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090e19">
+<meta name="description" content="Exploring Exoplanets: Project for Machine Learning for Data Science by Moulik Kumar.">
+<title>Exploring Exoplanets · Moulik Kumar</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
 </head>
 <body>
 <a class="skip" href="#research">Skip to research</a>
-<header class="masthead"><a class="brand" href="#system" id="home-link">EXOPLANETS</a><span class="author">Moulik Kumar</span></header>
+<header class="masthead" id="top">
+  <a class="brand" href="#system" id="home-link">Exploring Exoplanets</a>
+  <p>Project for Machine Learning for Data Science <span aria-hidden="true">·</span> Moulik Kumar</p>
+</header>
 <main>
-<section class="hero" id="system" aria-label="Explore the research through the solar system">
-  <div class="sky" aria-hidden="true"></div>
-  <div class="solar" aria-label="Solar system research navigation">
-    <div class="orbits" aria-hidden="true">
-      <span class="orbit orbit-1"></span><span class="orbit orbit-2"></span><span class="orbit orbit-3"></span><span class="orbit orbit-4"></span><span class="orbit orbit-5"></span>
+  <section class="hero" id="system" aria-label="Interactive solar system navigation">
+    <div class="starfield" aria-hidden="true"></div>
+    <div class="system-stage" id="system-stage">
+      <svg class="orbit-art" id="orbit-art" aria-hidden="true" preserveAspectRatio="none"></svg>
+      <a class="world sun" href="#Introduction" data-go="Introduction" data-orbit="0" data-angle="0" data-period="0" aria-label="Sun: Introduction"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Sun</strong><small>Introduction</small></span></a>
+<a class="world mercury" href="#DataPrep_EDA" data-go="DataPrep_EDA" data-orbit="1" data-angle="-58" data-period="190" aria-label="Mercury: Data preparation & EDA"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Mercury</strong><small>Data preparation & EDA</small></span></a>
+<a class="world venus" href="#Clustering" data-go="Clustering" data-orbit="2" data-angle="148" data-period="245" aria-label="Venus: Clustering"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Venus</strong><small>Clustering</small></span></a>
+<a class="world earth" href="#PCA" data-go="PCA" data-orbit="3" data-angle="-12" data-period="300" aria-label="Earth: PCA"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Earth</strong><small>PCA</small></span></a>
+<a class="world mars" href="#NaiveBayes" data-go="NaiveBayes" data-orbit="4" data-angle="234" data-period="355" aria-label="Mars: Naive Bayes"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Mars</strong><small>Naive Bayes</small></span></a>
+<a class="world jupiter" href="#DecTrees" data-go="DecTrees" data-orbit="5" data-angle="-37" data-period="410" aria-label="Jupiter: Decision trees"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Jupiter</strong><small>Decision trees</small></span></a>
+<a class="world saturn" href="#SVMs" data-go="SVMs" data-orbit="6" data-angle="155" data-period="465" aria-label="Saturn: Support vector machines"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Saturn</strong><small>Support vector machines</small></span></a>
+<a class="world uranus" href="#Regression" data-go="Regression" data-orbit="7" data-angle="23" data-period="520" aria-label="Uranus: Regression"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Uranus</strong><small>Regression</small></span></a>
+<a class="world neptune" href="#NN" data-go="NN" data-orbit="8" data-angle="202" data-period="575" aria-label="Neptune: Neural networks"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Neptune</strong><small>Neural networks</small></span></a>
+<a class="world pluto" href="#Conclusions" data-go="Conclusions" data-orbit="9" data-angle="296" data-period="630" aria-label="Pluto: Conclusions"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Pluto</strong><small>Conclusions</small></span></a>
     </div>
-      <button type="button" class="planet sun" data-go="Introduction" aria-label="Sun: Begin here"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Sun</strong><small>Begin here</small></span></button>
-      <button type="button" class="planet mercury" data-go="DataPrep_EDA" aria-label="Mercury: Data & exploration"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Mercury</strong><small>Data & exploration</small></span></button>
-      <button type="button" class="planet venus" data-go="Clustering" aria-label="Venus: Clustering"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Venus</strong><small>Clustering</small></span></button>
-      <button type="button" class="planet earth" data-go="PCA" aria-label="Earth: PCA"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Earth</strong><small>PCA</small></span></button>
-      <button type="button" class="planet mars" data-go="NaiveBayes" aria-label="Mars: Naive Bayes"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Mars</strong><small>Naive Bayes</small></span></button>
-      <button type="button" class="planet jupiter" data-go="DecTrees" aria-label="Jupiter: Decision trees"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Jupiter</strong><small>Decision trees</small></span></button>
-      <button type="button" class="planet saturn" data-go="SVMs" aria-label="Saturn: Support vector machines"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Saturn</strong><small>Support vector machines</small></span></button>
-      <button type="button" class="planet uranus" data-go="Regression" aria-label="Uranus: Regression"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Uranus</strong><small>Regression</small></span></button>
-      <button type="button" class="planet neptune" data-go="NN" aria-label="Neptune: Neural networks"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Neptune</strong><small>Neural networks</small></span></button>
-      <button type="button" class="planet pluto" data-go="Conclusions" aria-label="Pluto: Conclusions"><span class="planet-sphere" aria-hidden="true"></span><span class="planet-label"><strong>Pluto</strong><small>Conclusions</small></span></button>
-  </div>
-  <p class="system-note">Select a world to explore <span aria-hidden="true">·</span> Illustrated, not to scale</p>
-</section>
-<section class="workspace" id="research" aria-label="Research content"><div class="research-bar"><button id="overview" type="button" aria-label="Return to solar system">← Solar system</button><span class="research-author">Moulik Kumar</span></div><div class="content">
+    <p class="hero-hint">Choose a world to explore <span aria-hidden="true">·</span> Illustration not to scale</p>
+  </section>
+  <section class="workspace" id="research" aria-label="Research content" hidden>
+    <div class="research-bar"><a href="#system" id="overview">↑ Solar system</a><span id="current-section" aria-live="polite"></span></div>
+    <div class="content">
 <article class="section" id="Introduction" data-page="Introduction"><p class="eyebrow">THE SUN · BEGIN HERE</p><h2>Introduction</h2><p class="lead">How do the physical and orbital characteristics of confirmed exoplanets vary, and what relationships exist between planetary properties, host stars, and discovery methods?</p><div class="prose"><p>An exoplanet is a planet outside the Solar System. Studying these worlds places the planets in our own system within a much wider astronomical context. Confirmed exoplanets are catalogued with information about their sizes, masses, orbits, and host stars. Some planets orbit close to their stars, while others take much longer to complete an orbit. A planet&#x27;s measured radius describes its size, whereas its mass describes how much matter it contains. Orbital periods describe the time required to travel once around a host star. Stellar measurements add important context to the environments in which planets are found. Different combinations of planetary and stellar characteristics offer a way to compare known planetary systems. The NASA Exoplanet Archive collects measurements from the astronomical literature for scientific use. Its catalogue makes it possible to examine the diversity of confirmed planets while acknowledging that published measurements have different limitations.</p><p>Finding a planet around another star is difficult because the star generally dominates the light from the system. Astronomers use several discovery techniques that respond to different observable signals. Transit observations can register changes in brightness when a planet passes in front of its star. Radial-velocity measurements can detect shifts in a star&#x27;s spectrum associated with its motion. These approaches do not find all types of planets equally easily. Consequently, the known exoplanet population is not a complete census of every planet in the galaxy. A catalogue can also contain missing measurements even when a planet&#x27;s existence is confirmed. Published estimates may be revised as new observations become available. Comparing the recorded properties of planets and host stars can reveal patterns worth investigating without proving why those patterns occur. Understanding how planets are measured and selected is essential to interpreting any conclusions drawn from the known population.</p></div><div class="source-note">Background: <a href="https://exoplanetarchive.ipac.caltech.edu/" target="_blank" rel="noopener">NASA Exoplanet Archive</a> · <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-possible-perpendicular-planet/" target="_blank" rel="noopener">NASA explanation of transit and radial velocity methods</a>. Introductory astronomical illustration to be added with documented image rights.</div><h3>Questions driving the investigation</h3><ol class="questions"><li>What is the distribution of exoplanet radii?</li><li>How are reported planetary mass and radius related?</li><li>How are known orbital periods distributed?</li><li>How do orbital periods and semi-major axes vary together?</li><li>How do observed planet sizes differ across discovery methods?</li><li>How have catalogue discoveries changed across years?</li><li>Do host-star temperatures vary with observed planet radius?</li><li>How are stellar mass and planetary orbital characteristics related?</li><li>Do planets form measurable groups in physical-parameter space?</li><li>Can selected planetary properties be estimated from other available measurements?</li></ol></article>
 <article class="section" id="DataPrep_EDA" data-page="DataPrep_EDA"><p class="eyebrow">MERCURY · MODULE 1</p><h2>DataPrep_EDA</h2><p class="lead">Data acquisition, preparation and an exploratory look at the recorded population of confirmed exoplanets.</p><div class="stats"><div><span>Confirmed planets</span><b>6,366</b></div><div><span>Median radius</span><b>2.87 <small>R⊕</small></b></div><div><span>Median mass</span><b>9.40 <small>M⊕</small></b></div><div><span>Median orbital period</span><b>10.75 <small>days</small></b></div></div><p class="source-note">All numbers refer to the archived dataset downloaded on 20 September 2026, not a live count of confirmed planets.</p>
 <h3>01 / Sources and acquisition</h3><p>The primary source is the NASA Exoplanet Archive's <code>pscomppars</code> composite table. A Python GET request retrieved 12 fields for one catalogue row per confirmed planet. The supplementary Open Exoplanet Catalogue file was downloaded and retained as a separate raw source; it has <strong>not</strong> yet been merged into the analysis.</p><div class="resource-links"><a href="https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=SELECT+pl_name%2C+pl_rade%2C+pl_bmasse%2C+pl_orbper%2C+pl_orbsmax%2C+pl_orbeccen%2C+st_teff%2C+st_mass%2C+st_rad%2C+disc_year%2C+discoverymethod%2C+sy_dist+FROM+pscomppars&amp;format=csv" target="_blank" rel="noopener">Exact API GET ↗</a><a href="https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html" target="_blank" rel="noopener">API documentation ↗</a><a href="data/raw/nasa_exoplanets.csv" download>NASA raw CSV ↓</a><a href="data/raw/open_exoplanet_catalogue.csv" download>Supplementary raw CSV ↓</a><a href="data/processed/exoplanets_clean.csv" download>Clean CSV ↓</a></div><pre class="query">SELECT pl_name, pl_rade, pl_bmasse, pl_orbper, pl_orbsmax, pl_orbeccen, st_teff, st_mass, st_rad, disc_year, discoverymethod, sy_dist FROM pscomppars</pre><p class="source-note">Supplementary source: <a target="_blank" rel="noopener" href="https://raw.githubusercontent.com/OpenExoplanetCatalogue/oec_tables/master/comma_separated/open_exoplanet_catalogue.txt">Open Exoplanet Catalogue CSV</a>. Its coverage and updates may differ from NASA and it is not an independent validation sample.</p>
@@ -53,8 +60,13 @@
 <article class="section future-section" id="NN" data-page="NN"><p class="eyebrow">Neptune · Module 5</p><h2>NN</h2><div class="empty-space" aria-hidden="true"></div></article>
 <article class="section future-section" id="Conclusions" data-page="Conclusions"><p class="eyebrow">Pluto · Module 5</p><h2>Conclusions</h2><div class="empty-space" aria-hidden="true"></div></article>
 
-</div><nav class="text-nav" aria-label="Research sections"><a href="#Introduction" data-go="Introduction">Introduction</a><a href="#DataPrep_EDA" data-go="DataPrep_EDA">DataPrep_EDA</a><a href="#Clustering" data-go="Clustering">Clustering</a><a href="#PCA" data-go="PCA">PCA</a><a href="#NaiveBayes" data-go="NaiveBayes">NaiveBayes</a><a href="#DecTrees" data-go="DecTrees">DecTrees</a><a href="#SVMs" data-go="SVMs">SVMs</a><a href="#Regression" data-go="Regression">Regression</a><a href="#NN" data-go="NN">NN</a><a href="#Conclusions" data-go="Conclusions">Conclusions</a></nav></section>
+
+    </div>
+    <nav class="text-nav" aria-label="Research sections">
+      <a href="#Introduction">Introduction</a><a href="#DataPrep_EDA">DataPrep_EDA</a><a href="#Clustering">Clustering</a><a href="#PCA">PCA</a><a href="#NaiveBayes">NaiveBayes</a><a href="#DecTrees">DecTrees</a><a href="#SVMs">SVMs</a><a href="#Regression">Regression</a><a href="#NN">NN</a><a href="#Conclusions">Conclusions</a>
+    </nav>
+  </section>
 </main>
 <footer><span>Moulik Kumar · Exploring Exoplanets</span><span>This website was built with the help of ChatGPT Astra.</span></footer>
-<script src="script.js"></script>
-</body></html>
+</body>
+</html>
