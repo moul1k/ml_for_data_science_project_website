@@ -1,4 +1,4 @@
-# Exoplanet Research Website
+# Exoplanet Research 
 
 **Moulik Kumar**
 
