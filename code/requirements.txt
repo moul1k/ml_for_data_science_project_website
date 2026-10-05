@@ -3,3 +3,6 @@ pandas
 requests
 matplotlib
 seaborn
+scikit-learn
+scipy
+threadpoolctl

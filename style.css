@@ -121,6 +121,16 @@ h1,h2,h3,.world-label,.header-mark,.eyebrow,.drawer-heading,.section-drawer{font
 .findings-grid p{margin:10px 0 0;font-size:15px;line-height:1.65}
 @media(max-width:700px){.module-toc,.findings-grid{grid-template-columns:1fr}.module-page h3{margin-top:54px}.eda-theme{margin:42px 0 58px}.module-page .figures{gap:30px}.module-page .figure figcaption p{font-size:15px}.resource-links{gap:12px}}
 
+/* Research tables and scientific figures */
+.module-page h3[id]{scroll-margin-top:24px}
+.module-page caption{padding:18px 0 10px;text-align:left;color:#e8eef9;font-family:'Space Grotesk','DM Sans',sans-serif;font-size:16px}
+.module-page .table-scroll{margin:25px 0 32px}
+.module-page .feature-table td{min-width:170px}
+.module-page .figure{margin:28px 0}
+.module-page .figures .figure{margin:0}
+.intro-illustrations{margin-top:30px}
+.intro-illustrations figcaption span{line-height:1.6}
+
 /* Roaming About Me spacecraft */
 .about-spaceship{position:absolute;left:10%;top:57%;z-index:15;display:flex;align-items:center;gap:7px;padding:5px 9px 5px 6px;border:1px solid #6982aa66;border-radius:999px;background:#0a1220d9;color:#edf4ff;box-shadow:0 4px 18px #02071199,0 0 18px #8fb3ff24;cursor:pointer;animation:spaceship-roam 28s ease-in-out infinite;will-change:left,top,transform}
 .about-spaceship:hover,.about-spaceship:focus-visible{animation-play-state:paused;border-color:#adc7f1;background:#14243b;z-index:21}

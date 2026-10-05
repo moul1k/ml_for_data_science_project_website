@@ -91,19 +91,20 @@
 
   function openPage(scroll = true) {
     const name = decodeURIComponent(location.hash.slice(1));
-    const page = pages.find(item => item.id === name);
+    const target = document.getElementById(name);
+    const page = target?.closest('[data-page]') || (name === 'research' ? pages.find(item => !item.hidden) || pages[0] : null);
     research.hidden = !page;
     pages.forEach(item => { item.hidden = item !== page; });
     drawerLinks.forEach(link => {
-      if (page && link.hash === location.hash) link.setAttribute('aria-current', 'page');
+      if (page && link.hash === `#${page.id}`) link.setAttribute('aria-current', 'page');
       else link.removeAttribute('aria-current');
     });
     paths.forEach(link => {
-      if (page && link.hash === location.hash) link.setAttribute('aria-current', 'page');
+      if (page && link.hash === `#${page.id}`) link.setAttribute('aria-current', 'page');
       else link.removeAttribute('aria-current');
     });
     if (page) current.textContent = page.querySelector('h2').textContent;
-    if (scroll) (page ? research : document.getElementById('system')).scrollIntoView({behavior: reduced.matches ? 'instant' : 'smooth', block: 'start'});
+    if (scroll) (page ? (target === page ? research : target) : document.getElementById('system')).scrollIntoView({behavior: reduced.matches ? 'instant' : 'smooth', block: 'start'});
   }
 
   resize();

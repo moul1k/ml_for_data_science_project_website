@@ -1,0 +1,65 @@
+{
+  "source_sha256": "81e55a24c64eb0dc98b900f69a9ab59bf56bfa918d4b61be3743158c1d4e6f65",
+  "source_rows": 6366,
+  "retained_rows": 5141,
+  "excluded_rows": 1225,
+  "features": [
+    "pl_rade",
+    "pl_bmasse",
+    "pl_orbper",
+    "pl_orbsmax",
+    "pl_orbeccen",
+    "st_teff",
+    "st_mass",
+    "st_rad"
+  ],
+  "log10_features": [
+    "pl_rade",
+    "pl_bmasse",
+    "pl_orbper",
+    "pl_orbsmax",
+    "st_teff",
+    "st_mass",
+    "st_rad"
+  ],
+  "imputation": "none",
+  "sample_order": "planet name ascending; zero-based source_row",
+  "scaler_mean": {
+    "pl_rade": 0.575810466767254,
+    "pl_bmasse": 1.359128504356251,
+    "pl_orbper": 1.287467610635858,
+    "pl_orbsmax": -0.8628578195828694,
+    "pl_orbeccen": 0.07801179245283019,
+    "st_teff": 3.7254406804398688,
+    "st_mass": -0.037506948090201005,
+    "st_rad": 0.018110678591834566
+  },
+  "scaler_scale": {
+    "pl_rade": 0.4044109326372304,
+    "pl_bmasse": 1.0284580892093511,
+    "pl_orbper": 0.9049959129718231,
+    "pl_orbsmax": 0.6160719218876151,
+    "pl_orbeccen": 0.1515966367299276,
+    "st_teff": 0.07650863591269381,
+    "st_mass": 0.16751772907627716,
+    "st_rad": 0.2853061534822301
+  },
+  "missing_per_feature": {
+    "pl_rade": 50,
+    "pl_bmasse": 31,
+    "pl_orbper": 350,
+    "pl_orbsmax": 430,
+    "pl_orbeccen": 1065,
+    "st_teff": 304,
+    "st_mass": 9,
+    "st_rad": 328
+  },
+  "runtime": {
+    "python": "3.13.7",
+    "numpy": "2.3.3",
+    "pandas": "2.3.3",
+    "scipy": "1.16.2",
+    "scikit_learn": "1.7.2",
+    "matplotlib": "3.10.8"
+  }
+}
