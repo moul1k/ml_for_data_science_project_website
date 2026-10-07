@@ -61,7 +61,7 @@
     const ns = 'http://www.w3.org/2000/svg';
     art.setAttribute('viewBox', `0 0 ${width} ${height}`);
     art.replaceChildren();
-    for (let i = 1; i <= 9; i++) {
+    for (const i of [...new Set(worlds.map(world => Number(world.dataset.orbit)))].filter(i => i > 0)) {
       const ring = document.createElementNS(ns, 'ellipse');
       const f = 0.13 + i * 0.087;
       ring.setAttribute('cx', width / 2);

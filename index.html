@@ -6,8 +6,8 @@
 <meta name="theme-color" content="#090e19">
 <meta name="description" content="Exploring Exoplanets: Project for Machine Learning for Data Science by Moulik Kumar.">
 <title>Exploring Exoplanets · Moulik Kumar</title>
-<link rel="stylesheet" href="style.css?v=20261004m2">
-<script defer src="script.js?v=20261004m2"></script>
+<link rel="stylesheet" href="style.css?v=20261006tabs">
+<script defer src="script.js?v=20261006tabs"></script>
 </head>
 <body>
 <a class="skip" href="#research">Skip to research</a>
@@ -26,9 +26,10 @@
   <a href="#PCA"><span>Earth</span><strong>PCA</strong></a>
   <a href="#NaiveBayes"><span>Mars</span><strong>NaiveBayes</strong></a>
   <a href="#DecTrees"><span>Jupiter</span><strong>DecTrees</strong></a>
-  <a href="#SVMs"><span>Saturn</span><strong>SVMs</strong></a>
-  <a href="#Regression"><span>Uranus</span><strong>Regression</strong></a>
-  <a href="#NN"><span>Neptune</span><strong>NN</strong></a>
+  <a href="#Regression"><span>Saturn</span><strong>Regression</strong></a>
+  <a href="#AdaBoost"><span>Uranus</span><strong>AdaBoost</strong></a>
+  <a href="#GradientBoosting"><span>Neptune</span><strong>GradientBoosting</strong></a>
+  <a href="#XGBoost"><span>Ceres</span><strong>XGBoost</strong></a>
   <a href="#Conclusions"><span>Pluto</span><strong>Conclusions</strong></a>
 </nav>
 <main>
@@ -43,9 +44,10 @@
 <a class="world earth" href="#PCA" data-go="PCA" data-orbit="3" data-angle="-12" data-period="300" aria-label="Earth: PCA"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Earth</strong><small>PCA</small></span></a>
 <a class="world mars" href="#NaiveBayes" data-go="NaiveBayes" data-orbit="4" data-angle="234" data-period="355" aria-label="Mars: Naive Bayes"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Mars</strong><small>Naive Bayes</small></span></a>
 <a class="world jupiter" href="#DecTrees" data-go="DecTrees" data-orbit="5" data-angle="-37" data-period="410" aria-label="Jupiter: Decision trees"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Jupiter</strong><small>Decision trees</small></span></a>
-<a class="world saturn" href="#SVMs" data-go="SVMs" data-orbit="6" data-angle="155" data-period="465" aria-label="Saturn: Support vector machines"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Saturn</strong><small>Support vector machines</small></span></a>
-<a class="world uranus" href="#Regression" data-go="Regression" data-orbit="7" data-angle="23" data-period="520" aria-label="Uranus: Regression"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Uranus</strong><small>Regression</small></span></a>
-<a class="world neptune" href="#NN" data-go="NN" data-orbit="8" data-angle="202" data-period="575" aria-label="Neptune: Neural networks"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Neptune</strong><small>Neural networks</small></span></a>
+<a class="world saturn" href="#Regression" data-go="Regression" data-orbit="6" data-angle="155" data-period="465" aria-label="Saturn: Regression"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Saturn</strong><small>Regression</small></span></a>
+<a class="world uranus" href="#AdaBoost" data-go="AdaBoost" data-orbit="7" data-angle="23" data-period="520" aria-label="Uranus: AdaBoost"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Uranus</strong><small>AdaBoost</small></span></a>
+<a class="world neptune" href="#GradientBoosting" data-go="GradientBoosting" data-orbit="8" data-angle="202" data-period="575" aria-label="Neptune: Gradient boosting"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Neptune</strong><small>Gradient boosting</small></span></a>
+<a class="world ceres" href="#XGBoost" data-go="XGBoost" data-orbit="4.5" data-angle="95" data-period="380" aria-label="Ceres: XGBoost"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Ceres</strong><small>XGBoost</small></span></a>
 <a class="world pluto" href="#Conclusions" data-go="Conclusions" data-orbit="9" data-angle="296" data-period="630" aria-label="Pluto: Conclusions"><span class="world-sphere" aria-hidden="true"></span><span class="world-label"><strong>Pluto</strong><small>Conclusions</small></span></a>
       <button class="about-spaceship" id="about-spaceship" type="button" aria-label="Open About Moulik" aria-haspopup="dialog" aria-controls="about-dialog"><span class="spaceship-icon" aria-hidden="true">🚀</span><span class="spaceship-label">About me</span></button>
     </div>
@@ -164,15 +166,16 @@ variance = S**2 / (len(B) - 1)</pre>
 </article>
 <article class="section future-section" id="NaiveBayes" data-page="NaiveBayes"><p class="eyebrow">Mars · Module 3</p><h2>NaiveBayes</h2><div class="empty-space" aria-hidden="true"></div></article>
 <article class="section future-section" id="DecTrees" data-page="DecTrees"><p class="eyebrow">Jupiter · Module 3</p><h2>DecTrees</h2><div class="empty-space" aria-hidden="true"></div></article>
-<article class="section future-section" id="SVMs" data-page="SVMs"><p class="eyebrow">Saturn · Module 4</p><h2>SVMs</h2><div class="empty-space" aria-hidden="true"></div></article>
-<article class="section future-section" id="Regression" data-page="Regression"><p class="eyebrow">Uranus · Module 5</p><h2>Regression</h2><div class="empty-space" aria-hidden="true"></div></article>
-<article class="section future-section" id="NN" data-page="NN"><p class="eyebrow">Neptune · Module 5</p><h2>NN</h2><div class="empty-space" aria-hidden="true"></div></article>
+<article class="section future-section" id="Regression" data-page="Regression"><p class="eyebrow">Saturn · Module 4</p><h2>Regression</h2><div class="empty-space" aria-hidden="true"></div></article>
+<article class="section future-section" id="AdaBoost" data-page="AdaBoost"><p class="eyebrow">Uranus · Module 4</p><h2>AdaBoost</h2><div class="empty-space" aria-hidden="true"></div></article>
+<article class="section future-section" id="GradientBoosting" data-page="GradientBoosting"><p class="eyebrow">Neptune · Module 5</p><h2>GradientBoosting</h2><div class="empty-space" aria-hidden="true"></div></article>
+<article class="section future-section" id="XGBoost" data-page="XGBoost"><p class="eyebrow">Ceres · Module 5</p><h2>XGBoost</h2><div class="empty-space" aria-hidden="true"></div></article>
 <article class="section future-section" id="Conclusions" data-page="Conclusions"><p class="eyebrow">Pluto · Module 5</p><h2>Conclusions</h2><div class="empty-space" aria-hidden="true"></div></article>
 
 
     </div>
     <nav class="text-nav" aria-label="Research sections">
-      <a href="#Introduction">Introduction</a><a href="#DataPrep_EDA">DataPrep_EDA</a><a href="#Clustering">Clustering</a><a href="#PCA">PCA</a><a href="#NaiveBayes">NaiveBayes</a><a href="#DecTrees">DecTrees</a><a href="#SVMs">SVMs</a><a href="#Regression">Regression</a><a href="#NN">NN</a><a href="#Conclusions">Conclusions</a>
+      <a href="#Introduction">Introduction</a><a href="#DataPrep_EDA">DataPrep_EDA</a><a href="#Clustering">Clustering</a><a href="#PCA">PCA</a><a href="#NaiveBayes">NaiveBayes</a><a href="#DecTrees">DecTrees</a><a href="#Regression">Regression</a><a href="#AdaBoost">AdaBoost</a><a href="#GradientBoosting">GradientBoosting</a><a href="#XGBoost">XGBoost</a><a href="#Conclusions">Conclusions</a>
     </nav>
   </section>
 </main>
