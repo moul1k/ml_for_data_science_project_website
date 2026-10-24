@@ -1,0 +1,1135 @@
+source_row,pl_name,host_proxy,discoverymethod,split,multinomial_nb,tree_gini_depth2,tree_gini_depth3,tree_entropy_depth4,majority_baseline
+4708,6 Lyn b,6 Lyn,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+402,AU Mic b,AU Mic,Transit,test,Transit,Transit,Transit,Transit,Transit
+445,AU Mic c,AU Mic,Transit,test,Transit,Transit,Transit,Transit,Transit
+530,AU Mic e,AU Mic,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+2152,BD+20 2457 b,BD+20 2457,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2161,BD+20 2457 c,BD+20 2457,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1179,BD+45 564 b,BD+45 564,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5441,BD-06 1339 c,BD-06 1339,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+3664,BD-13 2130 b,BD-13 2130,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5585,Barnard b,Barnard,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5576,Barnard c,Barnard,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+840,Barnard d,Barnard,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5586,Barnard e,Barnard,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+93,CoRoT-10 b,CoRoT-10,Transit,test,Transit,Transit,Transit,Transit,Transit
+2159,CoRoT-16 b,CoRoT-16,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1305,CoRoT-20 b,CoRoT-20,Transit,test,Transit,Transit,Transit,Transit,Transit
+3739,CoRoT-20 c,CoRoT-20,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2237,CoRoT-26 b,CoRoT-26,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4046,CoRoT-31 b,CoRoT-31,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5251,CoRoT-4 b,CoRoT-4,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2146,CoRoT-6 b,CoRoT-6,Transit,test,Transit,Transit,Transit,Transit,Transit
+5053,DMPP-1 b,DMPP-1,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1392,DMPP-1 c,DMPP-1,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5058,DMPP-1 d,DMPP-1,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1275,DMPP-1 e,DMPP-1,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+930,DMPP-8 b,DMPP-8,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+1508,EPIC 201427007 b,EPIC 201427007,Transit,test,Transit,Transit,Transit,Transit,Transit
+3833,EPIC 201833600 c,EPIC 201833600,Transit,test,Transit,Transit,Transit,Transit,Transit
+5921,EPIC 206215704 b,EPIC 206215704,Transit,test,Transit,Transit,Transit,Transit,Transit
+1422,EPIC 212424622 b,EPIC 212424622,Transit,test,Transit,Transit,Transit,Transit,Transit
+4189,EPIC 220554210 c,EPIC 220554210,Transit,test,Transit,Transit,Transit,Transit,Transit
+3925,EPIC 249893012 b,EPIC 249893012,Transit,test,Transit,Transit,Transit,Transit,Transit
+3932,EPIC 249893012 c,EPIC 249893012,Transit,test,Transit,Transit,Transit,Transit,Transit
+3933,EPIC 249893012 d,EPIC 249893012,Transit,test,Transit,Transit,Transit,Transit,Transit
+1031,G 192-15 b,G 192-15,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4953,G 192-15 c,G 192-15,Radial Velocity,test,Transit,Transit,Radial Velocity,Radial Velocity,Transit
+1157,GJ 1061 b,GJ 1061,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1678,GJ 1061 c,GJ 1061,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+596,GJ 1061 d,GJ 1061,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1353,GJ 1151 c,GJ 1151,Radial Velocity,test,Transit,Transit,Radial Velocity,Transit,Transit
+5492,GJ 1265 b,GJ 1265,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4042,GJ 2056 b,GJ 2056,Radial Velocity,test,Transit,Transit,Transit,Radial Velocity,Transit
+63,GJ 3021 b,GJ 3021,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+1078,GJ 3378 b,GJ 3378,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+418,GJ 3473 b,GJ 3473,Transit,test,Transit,Transit,Transit,Transit,Transit
+419,GJ 3473 c,GJ 3473,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+2194,GJ 3634 b,GJ 3634,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+2002,GJ 3779 b,GJ 3779,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4368,GJ 411 b,GJ 411,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1002,GJ 463 b,GJ 463,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4627,GJ 649 b,GJ 649,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+5959,GJ 682 b,GJ 682,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+3953,GJ 682 c,GJ 682,Radial Velocity,test,Transit,Transit,Transit,Radial Velocity,Transit
+3680,GJ 86 b,GJ 86,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1777,GJ 887 b,GJ 887,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+750,GJ 887 c,GJ 887,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5659,GJ 887 d,GJ 887,Radial Velocity,test,Transit,Transit,Transit,Radial Velocity,Transit
+734,GJ 887 e,GJ 887,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1731,GJ 9714 b,GJ 9714,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3901,Gl 378 b,Gl 378,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+853,Gliese 12 b,Gliese 12,Transit,test,Transit,Transit,Transit,Transit,Transit
+280,HAT-P-12 b,HAT-P-12,Transit,test,Transit,Transit,Transit,Transit,Transit
+283,HAT-P-14 b,HAT-P-14,Transit,test,Transit,Transit,Transit,Transit,Transit
+4695,HAT-P-19 b,HAT-P-19,Transit,test,Transit,Transit,Transit,Transit,Transit
+2186,HAT-P-23 b,HAT-P-23,Transit,test,Transit,Transit,Transit,Transit,Transit
+1513,HAT-P-28 b,HAT-P-28,Transit,test,Transit,Transit,Transit,Transit,Transit
+3695,HAT-P-29 b,HAT-P-29,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5305,HAT-P-35 b,HAT-P-35,Transit,test,Transit,Transit,Transit,Transit,Transit
+2202,HAT-P-4 b,HAT-P-4,Transit,test,Transit,Transit,Transit,Transit,Transit
+5448,HAT-P-41 b,HAT-P-41,Transit,test,Transit,Transit,Transit,Transit,Transit
+3660,HAT-P-49 b,HAT-P-49,Transit,test,Transit,Transit,Transit,Transit,Transit
+3703,HAT-P-5 b,HAT-P-5,Transit,test,Transit,Transit,Transit,Transit,Transit
+2770,HAT-P-54 b,HAT-P-54,Transit,test,Transit,Transit,Transit,Transit,Transit
+818,HAT-P-60 b,HAT-P-60,Transit,test,Transit,Transit,Transit,Transit,Transit
+2821,HAT-P-66 b,HAT-P-66,Transit,test,Transit,Transit,Transit,Transit,Transit
+3841,HAT-P-9 b,HAT-P-9,Transit,test,Transit,Transit,Transit,Transit,Transit
+2841,HATS-14 b,HATS-14,Transit,test,Transit,Transit,Transit,Transit,Transit
+3567,HATS-23 b,HATS-23,Transit,test,Transit,Transit,Transit,Transit,Transit
+1477,HATS-28 b,HATS-28,Transit,test,Transit,Transit,Transit,Transit,Transit
+3620,HATS-31 b,HATS-31,Transit,test,Transit,Transit,Transit,Transit,Transit
+3762,HATS-36 b,HATS-36,Transit,test,Transit,Transit,Transit,Transit,Transit
+3648,HATS-40 b,HATS-40,Transit,test,Transit,Transit,Transit,Transit,Transit
+152,HATS-44 b,HATS-44,Transit,test,Transit,Transit,Transit,Transit,Transit
+4020,HATS-49 b,HATS-49,Transit,test,Transit,Transit,Transit,Transit,Transit
+5423,HATS-53 b,HATS-53,Transit,test,Transit,Transit,Transit,Transit,Transit
+3880,HATS-60 b,HATS-60,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+3900,HATS-68 b,HATS-68,Transit,test,Transit,Transit,Transit,Transit,Transit
+1155,HATS-71 b,HATS-71,Transit,test,Transit,Transit,Transit,Transit,Transit
+454,HATS-75 b,HATS-75,Transit,test,Transit,Transit,Transit,Transit,Transit
+5863,HATS-77 b,HATS-77,Transit,test,Transit,Transit,Transit,Transit,Transit
+5089,HD 100508 b,HD 100508,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5574,HD 101581 b,HD 101581,Transit,test,Transit,Transit,Transit,Transit,Transit
+4876,HD 101581 c,HD 101581,Transit,test,Transit,Transit,Transit,Transit,Transit
+838,HD 102329 b,HD 102329,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2075,HD 102329 c,HD 102329,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+6280,HD 102843 b,HD 102843,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5326,HD 104067 b,HD 104067,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+1300,HD 104067 c,HD 104067,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5325,HD 104985 b,HD 104985,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+4392,HD 106515 A b,HD 106515 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3983,HD 108236 b,HD 108236,Transit,test,Transit,Transit,Transit,Transit,Transit
+6261,HD 108236 c,HD 108236,Transit,test,Transit,Transit,Transit,Transit,Transit
+3986,HD 108236 e,HD 108236,Transit,test,Transit,Transit,Transit,Transit,Transit
+253,HD 108236 f,HD 108236,Transit,test,Transit,Transit,Transit,Transit,Transit
+72,HD 109749 b,HD 109749,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4474,HD 109988 b,HD 109988,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+6291,HD 110113 b,HD 110113,Transit,test,Transit,Transit,Transit,Transit,Transit
+4003,HD 110113 c,HD 110113,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4575,HD 111998 b,HD 111998,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1180,HD 11343 c,HD 11343,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4424,HD 115404 A b,HD 115404 A,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5680,HD 115404 A c,HD 115404 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2201,HD 11964 b,HD 11964,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2071,HD 11964 c,HD 11964,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+5679,HD 122562 c,HD 122562,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+1988,HD 125136 b,HD 125136,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1485,HD 125271 b,HD 125271,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5318,HD 126614 b,HD 126614,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2347,HD 127195 b,HD 127195,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1987,HD 127195 c,HD 127195,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3805,HD 131496 b,HD 131496,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2793,HD 133131 A b,HD 133131 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2798,HD 133131 A c,HD 133131 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2091,HD 134987 b,HD 134987,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2169,HD 134987 c,HD 134987,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4499,HD 135872 b,HD 135872,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1816,HD 13724 c,HD 13724,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+1203,HD 141004 b,HD 141004,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1741,HD 143105 b,HD 143105,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4715,HD 145457 b,HD 145457,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+2170,HD 147018 b,HD 147018,Radial Velocity,test,Radial Velocity,Transit,Transit,Radial Velocity,Transit
+2175,HD 147018 c,HD 147018,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5359,HD 148156 b,HD 148156,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3806,HD 1502 b,HD 1502,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1582,HD 154088 b,HD 154088,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5614,HD 154391 b,HD 154391,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5373,HD 155358 b,HD 155358,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+5375,HD 155358 c,HD 155358,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1260,HD 158259 b,HD 158259,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4039,HD 158259 c,HD 158259,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1280,HD 158259 d,HD 158259,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4038,HD 158259 e,HD 158259,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1363,HD 158259 f,HD 158259,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5890,HD 161178 b,HD 161178,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2113,HD 164509 b,HD 164509,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5353,HD 164922 b,HD 164922,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3984,HD 164922 c,HD 164922,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5910,HD 164922 d,HD 164922,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+6329,HD 164922 e,HD 164922,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4656,HD 165131 b,HD 165131,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4655,HD 167677 b,HD 167677,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5428,HD 169830 b,HD 169830,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4463,HD 169830 c,HD 169830,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5025,HD 17156 b,HD 17156,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+5041,HD 176986 d,HD 176986,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5372,HD 178911 B b,HD 178911 B,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+4037,HD 180617 b,HD 180617,Radial Velocity,test,Transit,Transit,Transit,Radial Velocity,Transit
+3737,HD 181342 b,HD 181342,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5380,HD 183263 b,HD 183263,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4468,HD 183263 c,HD 183263,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2120,HD 187123 b,HD 187123,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5339,HD 187123 c,HD 187123,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2037,HD 190007 b,HD 190007,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5346,HD 192263 b,HD 192263,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+699,HD 196050 b,HD 196050,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3860,HD 20003 b,HD 20003,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1404,HD 20003 c,HD 20003,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+3742,HD 200964 b,HD 200964,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1839,HD 200964 c,HD 200964,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5691,HD 203387 b,HD 203387,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4445,HD 203387 c,HD 203387,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3897,HD 206255 b,HD 206255,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+758,HD 20782 b,HD 20782,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1396,HD 211970 b,HD 211970,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4465,HD 213519 b,HD 213519,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5338,HD 216437 b,HD 216437,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5095,HD 217107 b,HD 217107,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+5348,HD 217107 c,HD 217107,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+712,HD 219077 b,HD 219077,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5418,HD 219415 b,HD 219415,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+906,HD 219828 b,HD 219828,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4433,HD 219828 c,HD 219828,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+84,HD 221416 b,HD 221416,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6276,HD 224538 b,HD 224538,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+190,HD 22946 d,HD 22946,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5896,HD 233832 b,HD 233832,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4543,HD 23472 b,HD 23472,Transit,test,Transit,Transit,Transit,Transit,Transit
+4547,HD 23472 c,HD 23472,Transit,test,Transit,Transit,Transit,Transit,Transit
+4552,HD 23472 d,HD 23472,Transit,test,Transit,Transit,Transit,Transit,Transit
+4553,HD 23472 e,HD 23472,Transit,test,Transit,Transit,Transit,Transit,Transit
+4548,HD 23472 f,HD 23472,Transit,test,Transit,Transit,Transit,Transit,Transit
+2160,HD 240210 b,HD 240210,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4455,HD 25015 b,HD 25015,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4797,HD 25463 b,HD 25463,Transit,test,Transit,Transit,Transit,Transit,Transit
+1856,HD 25463 c,HD 25463,Transit,test,Transit,Transit,Transit,Transit,Transit
+3712,HD 2638 b,HD 2638,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5070,HD 28185 b,HD 28185,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1084,HD 28185 c,HD 28185,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3746,HD 28678 b,HD 28678,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1585,HD 29399 b,HD 29399,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2674,HD 30669 b,HD 30669,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3747,HD 30856 b,HD 30856,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3719,HD 330075 b,HD 330075,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1520,HD 35843 b,HD 35843,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+6302,HD 35843 c,HD 35843,Transit,test,Transit,Transit,Transit,Transit,Transit
+1761,HD 37605 b,HD 37605,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+79,HD 37605 c,HD 37605,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2076,HD 39194 b,HD 39194,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5064,HD 39194 c,HD 39194,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+6341,HD 39194 d,HD 39194,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+2211,HD 41004 A b,HD 41004 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2831,HD 42618 b,HD 42618,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5400,HD 45184 b,HD 45184,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+3882,HD 45184 c,HD 45184,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+70,HD 46375 b,HD 46375,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4680,HD 47366 b,HD 47366,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4681,HD 47366 c,HD 47366,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1787,HD 4917 b,HD 4917,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5171,HD 5388 b,HD 5388,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4480,HD 56957 b,HD 56957,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3485,HD 59686 A b,HD 59686 A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4636,HD 62364 b,HD 62364,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4481,HD 62364 c,HD 62364,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1615,HD 64121 b,HD 64121,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2854,HD 67087 b,HD 67087,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+2758,HD 67087 c,HD 67087,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3638,HD 68988 b,HD 68988,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+6216,HD 68988 c,HD 68988,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+801,HD 72490 b,HD 72490,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4361,HD 73583 b,HD 73583,Transit,test,Transit,Transit,Transit,Transit,Transit
+4367,HD 73583 c,HD 73583,Transit,test,Transit,Transit,Transit,Transit,Transit
+4641,HD 74698 b,HD 74698,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4642,HD 74698 c,HD 74698,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4587,HD 75302 b,HD 75302,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3652,HD 76700 b,HD 76700,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4470,HD 80869 b,HD 80869,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4385,HD 81040 b,HD 81040,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1745,HD 83443 b,HD 83443,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5557,HD 83443 c,HD 83443,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5486,HD 86081 b,HD 86081,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4853,HD 86728 b,HD 86728,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+3471,HD 87646 b,HD 87646,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+4926,HD 87816 b,HD 87816,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1065,HD 87816 c,HD 87816,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3825,HD 89744 b,HD 89744,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5385,HD 93083 b,HD 93083,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+3775,HD 94834 b,HD 94834,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4371,HD 95735 c,HD 95735,Radial Velocity,test,Transit,Transit,Radial Velocity,Radial Velocity,Transit
+1871,HD 96167 b,HD 96167,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+629,HD 98219 b,HD 98219,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5398,HD 99706 b,HD 99706,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1599,HD 99706 c,HD 99706,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1758,HIP 111909 b,HIP 111909,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4999,HIP 111909 c,HIP 111909,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4998,HIP 18606 b,HIP 18606,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4446,HIP 35965 b,HIP 35965,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5874,HIP 54373 b,HIP 54373,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+229,HIP 54373 c,HIP 54373,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5567,HIP 55507 b,HIP 55507,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5898,HIP 5763 b,HIP 5763,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+4440,HIP 67537 b,HIP 67537,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4576,HIP 70849 b,HIP 70849,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+105,HIP 79431 b,HIP 79431,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+4357,HIP 94235 b,HIP 94235,Transit,test,Transit,Transit,Transit,Transit,Transit
+1334,HIP 98599 b,HIP 98599,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+3663,HR 810 b,HR 810,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4720,HS Psc b,HS Psc,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4118,K2-100 b,K2-100,Transit,test,Transit,Transit,Transit,Transit,Transit
+15,K2-107 b,K2-107,Transit,test,Transit,Transit,Transit,Transit,Transit
+5498,K2-113 b,K2-113,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6108,K2-119 b,K2-119,Transit,test,Transit,Transit,Transit,Transit,Transit
+3849,K2-124 b,K2-124,Transit,test,Transit,Transit,Transit,Transit,Transit
+5553,K2-129 b,K2-129,Transit,test,Transit,Transit,Transit,Transit,Transit
+4097,K2-137 b,K2-137,Transit,test,Transit,Transit,Transit,Transit,Transit
+1147,K2-147 b,K2-147,Transit,test,Transit,Transit,Transit,Transit,Transit
+3767,K2-151 b,K2-151,Transit,test,Transit,Transit,Transit,Transit,Transit
+1335,K2-154 b,K2-154,Transit,test,Transit,Transit,Transit,Transit,Transit
+5509,K2-154 c,K2-154,Transit,test,Transit,Transit,Transit,Transit,Transit
+5485,K2-158 b,K2-158,Transit,test,Transit,Transit,Transit,Transit,Transit
+1122,K2-158 c,K2-158,Transit,test,Transit,Transit,Transit,Transit,Transit
+3627,K2-163 b,K2-163,Transit,test,Transit,Transit,Transit,Transit,Transit
+3688,K2-169 b,K2-169,Transit,test,Transit,Transit,Transit,Transit,Transit
+1074,K2-174 b,K2-174,Transit,test,Transit,Transit,Transit,Transit,Transit
+321,K2-18 b,K2-18,Transit,test,Transit,Transit,Transit,Transit,Transit
+361,K2-18 c,K2-18,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+6167,K2-181 b,K2-181,Transit,test,Transit,Transit,Transit,Transit,Transit
+5234,K2-189 b,K2-189,Transit,test,Transit,Transit,Transit,Transit,Transit
+5027,K2-189 c,K2-189,Transit,test,Transit,Transit,Transit,Transit,Transit
+3702,K2-190 b,K2-190,Transit,test,Transit,Transit,Transit,Transit,Transit
+2064,K2-190 c,K2-190,Transit,test,Transit,Transit,Transit,Transit,Transit
+1164,K2-196 b,K2-196,Transit,test,Transit,Transit,Transit,Transit,Transit
+3558,K2-201 b,K2-201,Transit,test,Transit,Transit,Transit,Transit,Transit
+3557,K2-201 c,K2-201,Transit,test,Transit,Transit,Transit,Transit,Transit
+5284,K2-204 b,K2-204,Transit,test,Transit,Transit,Transit,Transit,Transit
+3609,K2-21 b,K2-21,Transit,test,Transit,Transit,Transit,Transit,Transit
+3611,K2-21 c,K2-21,Transit,test,Transit,Transit,Transit,Transit,Transit
+3769,K2-216 b,K2-216,Transit,test,Transit,Transit,Transit,Transit,Transit
+5239,K2-220 b,K2-220,Transit,test,Transit,Transit,Transit,Transit,Transit
+5256,K2-226 b,K2-226,Transit,test,Transit,Transit,Transit,Transit,Transit
+5563,K2-233 b,K2-233,Transit,test,Transit,Transit,Transit,Transit,Transit
+4974,K2-233 c,K2-233,Transit,test,Transit,Transit,Transit,Transit,Transit
+4973,K2-233 d,K2-233,Transit,test,Transit,Transit,Transit,Transit,Transit
+1605,K2-242 b,K2-242,Transit,test,Transit,Transit,Transit,Transit,Transit
+3792,K2-247 b,K2-247,Transit,test,Transit,Transit,Transit,Transit,Transit
+1201,K2-247 c,K2-247,Transit,test,Transit,Transit,Transit,Transit,Transit
+3797,K2-248 b,K2-248,Transit,test,Transit,Transit,Transit,Transit,Transit
+3808,K2-254 b,K2-254,Transit,test,Transit,Transit,Transit,Transit,Transit
+6339,K2-254 c,K2-254,Transit,test,Transit,Transit,Transit,Transit,Transit
+4812,K2-260 b,K2-260,Transit,test,Transit,Transit,Transit,Transit,Transit
+5227,K2-263 b,K2-263,Transit,test,Transit,Transit,Transit,Transit,Transit
+3750,K2-266 b,K2-266,Transit,test,Transit,Transit,Transit,Transit,Transit
+3751,K2-266 c,K2-266,Transit,test,Transit,Transit,Transit,Transit,Transit
+3757,K2-266 d,K2-266,Transit,test,Transit,Transit,Transit,Transit,Transit
+3756,K2-266 e,K2-266,Transit,test,Transit,Transit,Transit,Transit,Transit
+4199,K2-275 b,K2-275,Transit,test,Transit,Transit,Transit,Transit,Transit
+4198,K2-275 c,K2-275,Transit,test,Transit,Transit,Transit,Transit,Transit
+6346,K2-28 b,K2-28,Transit,test,Transit,Transit,Transit,Transit,Transit
+3879,K2-288 B b,K2-288 B,Transit,test,Transit,Transit,Transit,Transit,Transit
+6278,K2-292 b,K2-292,Transit,test,Transit,Transit,Transit,Transit,Transit
+3837,K2-293 b,K2-293,Transit,test,Transit,Transit,Transit,Transit,Transit
+5885,K2-315 b,K2-315,Transit,test,Transit,Transit,Transit,Transit,Transit
+1000,K2-320 b,K2-320,Transit,test,Transit,Transit,Transit,Transit,Transit
+4391,K2-325 b,K2-325,Transit,test,Transit,Transit,Transit,Transit,Transit
+1351,K2-332 b,K2-332,Transit,test,Transit,Transit,Transit,Transit,Transit
+4074,K2-339 b,K2-339,Transit,test,Transit,Transit,Transit,Transit,Transit
+1156,K2-341 b,K2-341,Transit,test,Transit,Transit,Transit,Transit,Transit
+5274,K2-342 b,K2-342,Transit,test,Transit,Transit,Transit,Transit,Transit
+1530,K2-347 b,K2-347,Transit,test,Transit,Transit,Transit,Transit,Transit
+4095,K2-350 b,K2-350,Transit,test,Transit,Transit,Transit,Transit,Transit
+4122,K2-350 c,K2-350,Transit,test,Transit,Transit,Transit,Transit,Transit
+4100,K2-354 b,K2-354,Transit,test,Transit,Transit,Transit,Transit,Transit
+4338,K2-366 b,K2-366,Transit,test,Transit,Transit,Transit,Transit,Transit
+4351,K2-372 b,K2-372,Transit,test,Transit,Transit,Transit,Transit,Transit
+4333,K2-376 b,K2-376,Transit,test,Transit,Transit,Transit,Transit,Transit
+5270,K2-379 b,K2-379,Transit,test,Transit,Transit,Transit,Transit,Transit
+4337,K2-383 b,K2-383,Transit,test,Transit,Transit,Transit,Transit,Transit
+3796,K2-39 b,K2-39,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6262,K2-392 b,K2-392,Transit,test,Transit,Transit,Transit,Transit,Transit
+5907,K2-400 b,K2-400,Transit,test,Transit,Transit,Transit,Transit,Transit
+5944,K2-409 b,K2-409,Transit,test,Transit,Transit,Transit,Transit,Transit
+898,K2-412 b,K2-412,Transit,test,Transit,Transit,Transit,Transit,Transit
+1884,K2-415 b,K2-415,Transit,test,Transit,Transit,Transit,Transit,Transit
+2,K2-43 b,K2-43,Transit,test,Transit,Transit,Transit,Transit,Transit
+3968,K2-43 c,K2-43,Transit,test,Transit,Transit,Transit,Transit,Transit
+16,K2-45 b,K2-45,Transit,test,Transit,Transit,Transit,Transit,Transit
+1679,K2-50 b,K2-50,Transit,test,Transit,Transit,Transit,Transit,Transit
+3508,K2-59 b,K2-59,Transit,test,Transit,Transit,Transit,Transit,Transit
+3507,K2-59 c,K2-59,Transit,test,Transit,Transit,Transit,Transit,Transit
+3513,K2-64 b,K2-64,Transit,test,Transit,Transit,Transit,Transit,Transit
+4886,K2-7 b,K2-7,Transit,test,Transit,Transit,Transit,Transit,Transit
+3526,K2-71 b,K2-71,Transit,test,Transit,Transit,Transit,Transit,Transit
+1017,K2-74 b,K2-74,Transit,test,Transit,Transit,Transit,Transit,Transit
+4833,K2-77 b,K2-77,Transit,test,Transit,Transit,Transit,Transit,Transit
+6131,K2-83 b,K2-83,Transit,test,Transit,Transit,Transit,Transit,Transit
+3537,K2-83 c,K2-83,Transit,test,Transit,Transit,Transit,Transit,Transit
+3843,K2-90 b,K2-90,Transit,test,Transit,Transit,Transit,Transit,Transit
+1198,K2-90 c,K2-90,Transit,test,Transit,Transit,Transit,Transit,Transit
+2167,KELT-1 b,KELT-1,Transit,test,Transit,Transit,Transit,Transit,Transit
+3626,KELT-18 b,KELT-18,Transit,test,Transit,Transit,Transit,Transit,Transit
+3617,KELT-21 b,KELT-21,Transit,test,Transit,Transit,Transit,Transit,Transit
+3659,KELT-6 b,KELT-6,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5767,KELT-6 c,KELT-6,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+322,KELT-8 b,KELT-8,Transit,test,Transit,Transit,Transit,Transit,Transit
+2825,KIC 3558849 b,KIC 3558849,Transit,test,Radial Velocity,Transit,Transit,Radial Velocity,Transit
+1372,KOI-1599.01,KOI-1599.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+4063,KOI-1783.02,KOI-1783.02,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1552,KOI-3503 b,KOI-3503,Transit,test,Transit,Transit,Transit,Transit,Transit
+6053,KOI-3503 c,KOI-3503,Transit,test,Transit,Transit,Transit,Transit,Transit
+557,KOI-94 b,KOI-94,Transit,test,Transit,Transit,Transit,Transit,Transit
+563,KOI-94 c,KOI-94,Transit,test,Transit,Transit,Transit,Transit,Transit
+512,KOI-94 d,KOI-94,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+564,KOI-94 e,KOI-94,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1537,Kepler-100 b,Kepler-100,Transit,test,Transit,Transit,Transit,Transit,Transit
+1232,Kepler-100 c,Kepler-100,Transit,test,Transit,Transit,Transit,Transit,Transit
+2718,Kepler-100 d,Kepler-100,Transit,test,Transit,Transit,Transit,Transit,Transit
+4682,Kepler-100 e,Kepler-100,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+3023,Kepler-1002 b,Kepler-1002,Transit,test,Transit,Transit,Transit,Transit,Transit
+3009,Kepler-1009 b,Kepler-1009,Transit,test,Transit,Transit,Transit,Transit,Transit
+5598,Kepler-1014 b,Kepler-1014,Transit,test,Transit,Transit,Transit,Transit,Transit
+1158,Kepler-102 b,Kepler-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+4583,Kepler-102 c,Kepler-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+5657,Kepler-102 d,Kepler-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+5965,Kepler-102 e,Kepler-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+5730,Kepler-102 f,Kepler-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+3034,Kepler-1025 b,Kepler-1025,Transit,test,Transit,Transit,Transit,Transit,Transit
+5664,Kepler-1032 b,Kepler-1032,Transit,test,Transit,Transit,Transit,Transit,Transit
+586,Kepler-1036 b,Kepler-1036,Transit,test,Transit,Transit,Transit,Transit,Transit
+882,Kepler-1037 b,Kepler-1037,Transit,test,Transit,Transit,Transit,Transit,Transit
+918,Kepler-1041 b,Kepler-1041,Transit,test,Transit,Transit,Transit,Transit,Transit
+2972,Kepler-1045 b,Kepler-1045,Transit,test,Transit,Transit,Transit,Transit,Transit
+6178,Kepler-1050 b,Kepler-1050,Transit,test,Transit,Transit,Transit,Transit,Transit
+3242,Kepler-1050 c,Kepler-1050,Transit,test,Transit,Transit,Transit,Transit,Transit
+5656,Kepler-1053 b,Kepler-1053,Transit,test,Transit,Transit,Transit,Transit,Transit
+1378,Kepler-1056 b,Kepler-1056,Transit,test,Transit,Transit,Transit,Transit,Transit
+2966,Kepler-1060 b,Kepler-1060,Transit,test,Transit,Transit,Transit,Transit,Transit
+803,Kepler-1061 b,Kepler-1061,Transit,test,Transit,Transit,Transit,Transit,Transit
+1316,Kepler-1066 b,Kepler-1066,Transit,test,Transit,Transit,Transit,Transit,Transit
+6169,Kepler-1070 b,Kepler-1070,Transit,test,Transit,Transit,Transit,Transit,Transit
+3074,Kepler-1079 b,Kepler-1079,Transit,test,Transit,Transit,Transit,Transit,Transit
+3082,Kepler-1083 b,Kepler-1083,Transit,test,Transit,Transit,Transit,Transit,Transit
+3089,Kepler-1088 b,Kepler-1088,Transit,test,Transit,Transit,Transit,Transit,Transit
+1671,Kepler-1090 b,Kepler-1090,Transit,test,Transit,Transit,Transit,Transit,Transit
+4193,Kepler-1090 c,Kepler-1090,Transit,test,Transit,Transit,Transit,Transit,Transit
+3103,Kepler-1094 b,Kepler-1094,Transit,test,Transit,Transit,Transit,Transit,Transit
+2097,Kepler-1099 b,Kepler-1099,Transit,test,Transit,Transit,Transit,Transit,Transit
+30,Kepler-1101 b,Kepler-1101,Transit,test,Transit,Transit,Transit,Transit,Transit
+683,Kepler-1102 b,Kepler-1102,Transit,test,Transit,Transit,Transit,Transit,Transit
+788,Kepler-1113 b,Kepler-1113,Transit,test,Transit,Transit,Transit,Transit,Transit
+1200,Kepler-1118 b,Kepler-1118,Transit,test,Transit,Transit,Transit,Transit,Transit
+5297,Kepler-112 b,Kepler-112,Transit,test,Transit,Transit,Transit,Transit,Transit
+2466,Kepler-112 c,Kepler-112,Transit,test,Transit,Transit,Transit,Transit,Transit
+3013,Kepler-1123 b,Kepler-1123,Transit,test,Transit,Transit,Transit,Transit,Transit
+608,Kepler-1129 b,Kepler-1129,Transit,test,Transit,Transit,Transit,Transit,Transit
+3410,Kepler-1129 c,Kepler-1129,Transit,test,Transit,Transit,Transit,Transit,Transit
+3037,Kepler-1132 b,Kepler-1132,Transit,test,Transit,Transit,Transit,Transit,Transit
+2958,Kepler-1137 b,Kepler-1137,Transit,test,Transit,Transit,Transit,Transit,Transit
+6193,Kepler-1141 b,Kepler-1141,Transit,test,Transit,Transit,Transit,Transit,Transit
+754,Kepler-115 b,Kepler-115,Transit,test,Transit,Transit,Transit,Transit,Transit
+1295,Kepler-115 c,Kepler-115,Transit,test,Transit,Transit,Transit,Transit,Transit
+3100,Kepler-1156 b,Kepler-1156,Transit,test,Transit,Transit,Transit,Transit,Transit
+3107,Kepler-1160 b,Kepler-1160,Transit,test,Transit,Transit,Transit,Transit,Transit
+3119,Kepler-1166 b,Kepler-1166,Transit,test,Transit,Transit,Transit,Transit,Transit
+2720,Kepler-117 b,Kepler-117,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2714,Kepler-117 c,Kepler-117,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+3132,Kepler-1172 b,Kepler-1172,Transit,test,Transit,Transit,Transit,Transit,Transit
+631,Kepler-1178 b,Kepler-1178,Transit,test,Transit,Transit,Transit,Transit,Transit
+6166,Kepler-1185 b,Kepler-1185,Transit,test,Transit,Transit,Transit,Transit,Transit
+3056,Kepler-1189 b,Kepler-1189,Transit,test,Transit,Transit,Transit,Transit,Transit
+760,Kepler-1190 b,Kepler-1190,Transit,test,Transit,Transit,Transit,Transit,Transit
+3070,Kepler-1194 b,Kepler-1194,Transit,test,Transit,Transit,Transit,Transit,Transit
+653,Kepler-1200 b,Kepler-1200,Transit,test,Transit,Transit,Transit,Transit,Transit
+3091,Kepler-1205 b,Kepler-1205,Transit,test,Transit,Transit,Transit,Transit,Transit
+795,Kepler-1210 b,Kepler-1210,Transit,test,Transit,Transit,Transit,Transit,Transit
+5822,Kepler-1212 b,Kepler-1212,Transit,test,Transit,Transit,Transit,Transit,Transit
+3112,Kepler-1216 b,Kepler-1216,Transit,test,Transit,Transit,Transit,Transit,Transit
+5731,Kepler-1223 b,Kepler-1223,Transit,test,Transit,Transit,Transit,Transit,Transit
+3128,Kepler-1226 b,Kepler-1226,Transit,test,Transit,Transit,Transit,Transit,Transit
+3139,Kepler-1230 b,Kepler-1230,Transit,test,Transit,Transit,Transit,Transit,Transit
+5775,Kepler-1232 b,Kepler-1232,Transit,test,Transit,Transit,Transit,Transit,Transit
+3071,Kepler-1238 b,Kepler-1238,Transit,test,Transit,Transit,Transit,Transit,Transit
+3075,Kepler-1242 b,Kepler-1242,Transit,test,Transit,Transit,Transit,Transit,Transit
+3085,Kepler-1246 b,Kepler-1246,Transit,test,Transit,Transit,Transit,Transit,Transit
+5719,Kepler-1248 b,Kepler-1248,Transit,test,Transit,Transit,Transit,Transit,Transit
+3093,Kepler-1250 b,Kepler-1250,Transit,test,Transit,Transit,Transit,Transit,Transit
+3098,Kepler-1252 b,Kepler-1252,Transit,test,Transit,Transit,Transit,Transit,Transit
+3106,Kepler-1256 b,Kepler-1256,Transit,test,Transit,Transit,Transit,Transit,Transit
+2524,Kepler-126 b,Kepler-126,Transit,test,Transit,Transit,Transit,Transit,Transit
+5727,Kepler-126 c,Kepler-126,Transit,test,Transit,Transit,Transit,Transit,Transit
+859,Kepler-126 d,Kepler-126,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6,Kepler-1263 b,Kepler-1263,Transit,test,Transit,Transit,Transit,Transit,Transit
+3130,Kepler-1268 b,Kepler-1268,Transit,test,Transit,Transit,Transit,Transit,Transit
+2603,Kepler-127 b,Kepler-127,Transit,test,Transit,Transit,Transit,Transit,Transit
+5566,Kepler-127 c,Kepler-127,Transit,test,Transit,Transit,Transit,Transit,Transit
+2362,Kepler-127 d,Kepler-127,Transit,test,Transit,Transit,Transit,Transit,Transit
+3060,Kepler-1276 b,Kepler-1276,Transit,test,Transit,Transit,Transit,Transit,Transit
+581,Kepler-1281 b,Kepler-1281,Transit,test,Transit,Transit,Transit,Transit,Transit
+1817,Kepler-1286 b,Kepler-1286,Transit,test,Transit,Transit,Transit,Transit,Transit
+1704,Kepler-1290 b,Kepler-1290,Transit,test,Transit,Transit,Transit,Transit,Transit
+3194,Kepler-1296 b,Kepler-1296,Transit,test,Transit,Transit,Transit,Transit,Transit
+1807,Kepler-1298 b,Kepler-1298,Transit,test,Transit,Transit,Transit,Transit,Transit
+3206,Kepler-1300 b,Kepler-1300,Transit,test,Transit,Transit,Transit,Transit,Transit
+3215,Kepler-1302 b,Kepler-1302,Transit,test,Transit,Transit,Transit,Transit,Transit
+1589,Kepler-1306 b,Kepler-1306,Transit,test,Transit,Transit,Transit,Transit,Transit
+3244,Kepler-1313 b,Kepler-1313,Transit,test,Transit,Transit,Transit,Transit,Transit
+5752,Kepler-1319 b,Kepler-1319,Transit,test,Transit,Transit,Transit,Transit,Transit
+3155,Kepler-1321 b,Kepler-1321,Transit,test,Transit,Transit,Transit,Transit,Transit
+3186,Kepler-1321 c,Kepler-1321,Transit,test,Transit,Transit,Transit,Transit,Transit
+4266,Kepler-1321 d,Kepler-1321,Transit,test,Transit,Transit,Transit,Transit,Transit
+988,Kepler-1325 b,Kepler-1325,Transit,test,Transit,Transit,Transit,Transit,Transit
+1251,Kepler-1333 b,Kepler-1333,Transit,test,Transit,Transit,Transit,Transit,Transit
+3188,Kepler-1337 b,Kepler-1337,Transit,test,Transit,Transit,Transit,Transit,Transit
+3195,Kepler-1341 b,Kepler-1341,Transit,test,Transit,Transit,Transit,Transit,Transit
+3209,Kepler-1345 b,Kepler-1345,Transit,test,Transit,Transit,Transit,Transit,Transit
+3232,Kepler-1352 b,Kepler-1352,Transit,test,Transit,Transit,Transit,Transit,Transit
+3233,Kepler-1353 b,Kepler-1353,Transit,test,Transit,Transit,Transit,Transit,Transit
+1076,Kepler-1357 b,Kepler-1357,Transit,test,Transit,Transit,Transit,Transit,Transit
+3151,Kepler-1362 b,Kepler-1362,Transit,test,Transit,Transit,Transit,Transit,Transit
+3165,Kepler-1368 b,Kepler-1368,Transit,test,Transit,Transit,Transit,Transit,Transit
+5839,Kepler-1369 b,Kepler-1369,Transit,test,Transit,Transit,Transit,Transit,Transit
+3179,Kepler-1373 b,Kepler-1373,Transit,test,Transit,Transit,Transit,Transit,Transit
+759,Kepler-1376 b,Kepler-1376,Transit,test,Transit,Transit,Transit,Transit,Transit
+2107,Kepler-138 b,Kepler-138,Transit,test,Transit,Transit,Transit,Transit,Transit
+902,Kepler-138 c,Kepler-138,Transit,test,Transit,Transit,Transit,Transit,Transit
+5687,Kepler-138 d,Kepler-138,Transit,test,Transit,Transit,Transit,Transit,Transit
+3219,Kepler-1387 b,Kepler-1387,Transit,test,Transit,Transit,Transit,Transit,Transit
+3225,Kepler-1390 b,Kepler-1390,Transit,test,Transit,Transit,Transit,Transit,Transit
+5956,Kepler-1395 b,Kepler-1395,Transit,test,Transit,Transit,Transit,Transit,Transit
+2195,Kepler-14 b,Kepler-14,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+864,Kepler-1406 b,Kepler-1406,Transit,test,Transit,Transit,Transit,Transit,Transit
+5881,Kepler-1410 b,Kepler-1410,Transit,test,Transit,Transit,Transit,Radial Velocity,Transit
+7,Kepler-1416 b,Kepler-1416,Transit,test,Transit,Transit,Transit,Transit,Transit
+1350,Kepler-1421 b,Kepler-1421,Transit,test,Transit,Transit,Transit,Transit,Transit
+5940,Kepler-1423 b,Kepler-1423,Transit,test,Transit,Transit,Transit,Transit,Transit
+3183,Kepler-1429 b,Kepler-1429,Transit,test,Transit,Transit,Transit,Transit,Transit
+823,Kepler-1432 b,Kepler-1432,Transit,test,Transit,Transit,Transit,Transit,Transit
+3301,Kepler-1438 b,Kepler-1438,Transit,test,Transit,Transit,Transit,Transit,Transit
+2087,Kepler-1439 b,Kepler-1439,Transit,test,Transit,Transit,Transit,Transit,Transit
+6103,Kepler-1444 b,Kepler-1444,Transit,test,Transit,Transit,Transit,Transit,Transit
+3317,Kepler-1450 b,Kepler-1450,Transit,test,Transit,Transit,Transit,Transit,Transit
+3329,Kepler-1457 b,Kepler-1457,Transit,test,Transit,Transit,Transit,Transit,Transit
+1126,Kepler-1462 b,Kepler-1462,Transit,test,Transit,Transit,Transit,Transit,Transit
+2553,Kepler-147 b,Kepler-147,Transit,test,Transit,Transit,Transit,Transit,Transit
+2599,Kepler-147 c,Kepler-147,Transit,test,Transit,Transit,Transit,Transit,Transit
+3282,Kepler-1472 b,Kepler-1472,Transit,test,Transit,Transit,Transit,Transit,Transit
+3281,Kepler-1473 b,Kepler-1473,Transit,test,Transit,Transit,Transit,Transit,Transit
+2392,Kepler-148 b,Kepler-148,Transit,test,Transit,Transit,Transit,Transit,Transit
+2349,Kepler-148 c,Kepler-148,Transit,test,Transit,Transit,Transit,Transit,Transit
+3474,Kepler-148 d,Kepler-148,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+3389,Kepler-1480 b,Kepler-1480,Transit,test,Transit,Transit,Transit,Transit,Transit
+3405,Kepler-1485 b,Kepler-1485,Transit,test,Transit,Transit,Transit,Transit,Transit
+3419,Kepler-1488 b,Kepler-1488,Transit,test,Transit,Transit,Transit,Transit,Transit
+4318,Kepler-1488 c,Kepler-1488,Transit,test,Transit,Transit,Transit,Transit,Transit
+3425,Kepler-1492 b,Kepler-1492,Transit,test,Transit,Transit,Transit,Transit,Transit
+1648,Kepler-1496 b,Kepler-1496,Transit,test,Transit,Transit,Transit,Transit,Transit
+172,Kepler-1503 b,Kepler-1503,Transit,test,Transit,Transit,Transit,Transit,Transit
+3361,Kepler-1507 b,Kepler-1507,Transit,test,Transit,Transit,Transit,Transit,Transit
+6129,Kepler-1514 b,Kepler-1514,Transit,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4062,Kepler-1514 c,Kepler-1514,Transit,test,Transit,Transit,Transit,Transit,Transit
+873,Kepler-1519 b,Kepler-1519,Transit,test,Radial Velocity,Transit,Radial Velocity,Transit,Transit
+3356,Kepler-1524 b,Kepler-1524,Transit,test,Transit,Transit,Transit,Transit,Transit
+3376,Kepler-1529 b,Kepler-1529,Transit,test,Transit,Transit,Transit,Transit,Transit
+1097,Kepler-1539 b,Kepler-1539,Transit,test,Transit,Transit,Transit,Transit,Transit
+6102,Kepler-1542 b,Kepler-1542,Transit,test,Transit,Transit,Transit,Transit,Transit
+8,Kepler-1542 c,Kepler-1542,Transit,test,Transit,Transit,Transit,Transit,Transit
+56,Kepler-1542 d,Kepler-1542,Transit,test,Transit,Transit,Transit,Transit,Transit
+2108,Kepler-1542 e,Kepler-1542,Transit,test,Transit,Transit,Transit,Transit,Transit
+1175,Kepler-1549 b,Kepler-1549,Transit,test,Transit,Transit,Radial Velocity,Transit,Transit
+1473,Kepler-1553 b,Kepler-1553,Transit,test,Transit,Transit,Transit,Transit,Transit
+3308,Kepler-1563 b,Kepler-1563,Transit,test,Transit,Transit,Transit,Transit,Transit
+3325,Kepler-1570 b,Kepler-1570,Transit,test,Transit,Transit,Transit,Transit,Transit
+132,Kepler-1573 b,Kepler-1573,Transit,test,Transit,Transit,Transit,Transit,Transit
+3250,Kepler-1578 b,Kepler-1578,Transit,test,Transit,Transit,Transit,Transit,Transit
+1841,Kepler-1583 b,Kepler-1583,Transit,test,Transit,Transit,Transit,Transit,Transit
+6051,Kepler-1588 b,Kepler-1588,Transit,test,Transit,Transit,Transit,Transit,Transit
+3279,Kepler-1589 b,Kepler-1589,Transit,test,Transit,Transit,Transit,Transit,Transit
+3304,Kepler-1598 b,Kepler-1598,Transit,test,Transit,Transit,Transit,Transit,Transit
+219,Kepler-160 b,Kepler-160,Transit,test,Transit,Transit,Transit,Transit,Transit
+4011,Kepler-160 c,Kepler-160,Transit,test,Transit,Transit,Transit,Transit,Transit
+3496,Kepler-1600 b,Kepler-1600,Transit,test,Transit,Transit,Radial Velocity,Transit,Transit
+4267,Kepler-1600 c,Kepler-1600,Transit,test,Transit,Transit,Transit,Transit,Transit
+1814,Kepler-1604 b,Kepler-1604,Transit,test,Transit,Transit,Transit,Transit,Transit
+2081,Kepler-1612 b,Kepler-1612,Transit,test,Transit,Transit,Transit,Transit,Transit
+6081,Kepler-1616 b,Kepler-1616,Transit,test,Transit,Transit,Transit,Transit,Transit
+6173,Kepler-1621 b,Kepler-1621,Transit,test,Transit,Transit,Transit,Transit,Transit
+3345,Kepler-1625 b,Kepler-1625,Transit,test,Radial Velocity,Transit,Radial Velocity,Transit,Transit
+3382,Kepler-1631 b,Kepler-1631,Transit,test,Transit,Transit,Transit,Transit,Transit
+949,Kepler-1634 b,Kepler-1634,Transit,test,Transit,Transit,Radial Velocity,Transit,Transit
+1492,Kepler-1636 b,Kepler-1636,Transit,test,Transit,Transit,Radial Velocity,Transit,Transit
+2629,Kepler-164 b,Kepler-164,Transit,test,Transit,Transit,Transit,Transit,Transit
+2704,Kepler-164 c,Kepler-164,Transit,test,Transit,Transit,Transit,Transit,Transit
+1632,Kepler-164 d,Kepler-164,Transit,test,Transit,Transit,Transit,Transit,Transit
+3917,Kepler-164 e,Kepler-164,Transit,test,Transit,Transit,Transit,Transit,Transit
+3360,Kepler-1644 b,Kepler-1644,Transit,test,Transit,Transit,Transit,Transit,Transit
+2705,Kepler-165 b,Kepler-165,Transit,test,Transit,Transit,Transit,Transit,Transit
+5226,Kepler-165 c,Kepler-165,Transit,test,Transit,Transit,Transit,Transit,Transit
+6134,Kepler-1653 b,Kepler-1653,Transit,test,Transit,Transit,Transit,Transit,Transit
+3926,Kepler-1661 b,Kepler-1661,Transit,test,Transit,Transit,Transit,Transit,Transit
+4051,Kepler-1667 b,Kepler-1667,Transit,test,Transit,Transit,Transit,Transit,Transit
+1733,Kepler-1671 b,Kepler-1671,Transit,test,Transit,Transit,Transit,Transit,Transit
+2013,Kepler-1676 b,Kepler-1676,Transit,test,Transit,Transit,Transit,Transit,Transit
+1674,Kepler-1680 b,Kepler-1680,Transit,test,Transit,Transit,Transit,Transit,Transit
+5806,Kepler-1688 b,Kepler-1688,Transit,test,Transit,Transit,Transit,Transit,Transit
+4000,Kepler-1689 b,Kepler-1689,Transit,test,Transit,Transit,Transit,Transit,Transit
+979,Kepler-1696 b,Kepler-1696,Transit,test,Transit,Transit,Transit,Transit,Transit
+953,Kepler-1701 b,Kepler-1701,Transit,test,Transit,Transit,Transit,Transit,Transit
+4224,Kepler-1709 b,Kepler-1709,Transit,test,Transit,Transit,Transit,Transit,Transit
+618,Kepler-1713 b,Kepler-1713,Transit,test,Transit,Transit,Transit,Transit,Transit
+5829,Kepler-1714 b,Kepler-1714,Transit,test,Transit,Transit,Transit,Transit,Transit
+6013,Kepler-1719 b,Kepler-1719,Transit,test,Transit,Transit,Transit,Transit,Transit
+6347,Kepler-1724 b,Kepler-1724,Transit,test,Transit,Transit,Transit,Transit,Transit
+4176,Kepler-1731 b,Kepler-1731,Transit,test,Transit,Transit,Transit,Transit,Transit
+4227,Kepler-1738 b,Kepler-1738,Transit,test,Transit,Transit,Transit,Transit,Transit
+4149,Kepler-1742 b,Kepler-1742,Transit,test,Transit,Transit,Transit,Transit,Transit
+1502,Kepler-1748 b,Kepler-1748,Transit,test,Transit,Transit,Transit,Transit,Transit
+811,Kepler-1751 b,Kepler-1751,Transit,test,Transit,Transit,Transit,Transit,Transit
+4171,Kepler-1758 b,Kepler-1758,Transit,test,Transit,Transit,Transit,Transit,Transit
+4186,Kepler-1764 b,Kepler-1764,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4213,Kepler-1769 b,Kepler-1769,Transit,test,Transit,Transit,Transit,Transit,Transit
+957,Kepler-1774 b,Kepler-1774,Transit,test,Transit,Transit,Transit,Transit,Transit
+4200,Kepler-1775 b,Kepler-1775,Transit,test,Transit,Transit,Transit,Transit,Transit
+4219,Kepler-1782 b,Kepler-1782,Transit,test,Transit,Transit,Transit,Transit,Transit
+4180,Kepler-1788 b,Kepler-1788,Transit,test,Transit,Transit,Transit,Transit,Transit
+4192,Kepler-1792 b,Kepler-1792,Transit,test,Transit,Transit,Transit,Transit,Transit
+5846,Kepler-1796 b,Kepler-1796,Transit,test,Transit,Transit,Transit,Transit,Transit
+4202,Kepler-1798 b,Kepler-1798,Transit,test,Transit,Transit,Transit,Transit,Transit
+578,Kepler-1804 b,Kepler-1804,Transit,test,Transit,Transit,Transit,Transit,Transit
+6123,Kepler-1811 b,Kepler-1811,Transit,test,Transit,Transit,Transit,Transit,Transit
+4159,Kepler-1814 b,Kepler-1814,Transit,test,Transit,Transit,Transit,Transit,Transit
+6050,Kepler-1814 c,Kepler-1814,Transit,test,Transit,Transit,Transit,Transit,Transit
+4172,Kepler-1819 b,Kepler-1819,Transit,test,Transit,Transit,Transit,Transit,Transit
+4178,Kepler-1820 b,Kepler-1820,Transit,test,Transit,Transit,Transit,Transit,Transit
+592,Kepler-1825 b,Kepler-1825,Transit,test,Transit,Transit,Transit,Transit,Transit
+40,Kepler-1831 b,Kepler-1831,Transit,test,Transit,Transit,Transit,Transit,Transit
+4138,Kepler-1834 b,Kepler-1834,Transit,test,Transit,Transit,Transit,Transit,Transit
+3940,Kepler-1834 c,Kepler-1834,Transit,test,Transit,Transit,Transit,Transit,Transit
+4143,Kepler-1839 b,Kepler-1839,Transit,test,Transit,Transit,Transit,Transit,Transit
+4147,Kepler-1842 b,Kepler-1842,Transit,test,Transit,Transit,Transit,Transit,Transit
+4167,Kepler-1847 b,Kepler-1847,Transit,test,Transit,Transit,Transit,Transit,Transit
+1116,Kepler-1854 b,Kepler-1854,Transit,test,Transit,Transit,Transit,Transit,Transit
+1474,Kepler-1862 b,Kepler-1862,Transit,test,Transit,Transit,Transit,Transit,Transit
+4295,Kepler-1868 b,Kepler-1868,Transit,test,Transit,Transit,Transit,Transit,Transit
+4259,Kepler-1869 b,Kepler-1869,Transit,test,Transit,Transit,Transit,Transit,Transit
+1857,Kepler-1869 c,Kepler-1869,Transit,test,Transit,Transit,Transit,Transit,Transit
+1844,Kepler-1876 b,Kepler-1876,Transit,test,Transit,Transit,Transit,Transit,Transit
+4321,Kepler-1881 b,Kepler-1881,Transit,test,Transit,Transit,Transit,Transit,Transit
+4327,Kepler-1883 b,Kepler-1883,Transit,test,Transit,Transit,Transit,Transit,Transit
+5770,Kepler-1884 b,Kepler-1884,Transit,test,Transit,Transit,Transit,Transit,Transit
+2513,Kepler-189 b,Kepler-189,Transit,test,Transit,Transit,Transit,Transit,Transit
+1562,Kepler-189 c,Kepler-189,Transit,test,Transit,Transit,Transit,Transit,Transit
+52,Kepler-1893 b,Kepler-1893,Transit,test,Transit,Transit,Transit,Transit,Transit
+4285,Kepler-1895 b,Kepler-1895,Transit,test,Transit,Transit,Transit,Transit,Transit
+912,Kepler-190 b,Kepler-190,Transit,test,Transit,Transit,Transit,Transit,Transit
+5763,Kepler-190 c,Kepler-190,Transit,test,Transit,Transit,Transit,Transit,Transit
+4309,Kepler-1909 b,Kepler-1909,Transit,test,Transit,Transit,Transit,Transit,Transit
+1062,Kepler-1910 b,Kepler-1910,Transit,test,Transit,Transit,Transit,Transit,Transit
+4303,Kepler-1913 b,Kepler-1913,Transit,test,Transit,Transit,Transit,Transit,Transit
+4312,Kepler-1918 b,Kepler-1918,Transit,test,Transit,Transit,Transit,Transit,Transit
+54,Kepler-1922 b,Kepler-1922,Transit,test,Transit,Transit,Transit,Transit,Transit
+4229,Kepler-1924 b,Kepler-1924,Transit,test,Transit,Transit,Transit,Transit,Transit
+4248,Kepler-1931 b,Kepler-1931,Transit,test,Transit,Transit,Transit,Transit,Transit
+785,Kepler-1939 b,Kepler-1939,Transit,test,Transit,Transit,Transit,Transit,Transit
+1183,Kepler-1941 b,Kepler-1941,Transit,test,Transit,Transit,Transit,Transit,Transit
+4242,Kepler-1945 b,Kepler-1945,Transit,test,Transit,Transit,Transit,Transit,Transit
+6032,Kepler-1949 b,Kepler-1949,Transit,test,Transit,Transit,Transit,Transit,Transit
+841,Kepler-1951 b,Kepler-1951,Transit,test,Transit,Transit,Transit,Transit,Transit
+4279,Kepler-1959 b,Kepler-1959,Transit,test,Transit,Transit,Transit,Transit,Transit
+1114,Kepler-196 b,Kepler-196,Transit,test,Transit,Transit,Transit,Transit,Transit
+2665,Kepler-196 c,Kepler-196,Transit,test,Transit,Transit,Transit,Transit,Transit
+4256,Kepler-196 d,Kepler-196,Transit,test,Transit,Transit,Transit,Transit,Transit
+4291,Kepler-1967 b,Kepler-1967,Transit,test,Transit,Transit,Transit,Transit,Transit
+4265,Kepler-1972 b,Kepler-1972,Transit,test,Transit,Transit,Transit,Transit,Transit
+6175,Kepler-1972 c,Kepler-1972,Transit,test,Transit,Transit,Transit,Transit,Transit
+658,Kepler-1978 b,Kepler-1978,Transit,test,Transit,Transit,Transit,Transit,Transit
+3919,Kepler-1984 b,Kepler-1984,Transit,test,Transit,Transit,Transit,Transit,Transit
+6188,Kepler-199 b,Kepler-199,Transit,test,Transit,Transit,Transit,Transit,Transit
+1779,Kepler-199 c,Kepler-199,Transit,test,Transit,Transit,Transit,Transit,Transit
+6104,Kepler-1997 b,Kepler-1997,Transit,test,Transit,Transit,Transit,Transit,Transit
+861,Kepler-2001 b,Kepler-2001,Transit,test,Transit,Transit,Transit,Transit,Transit
+2022,Kepler-2001 c,Kepler-2001,Transit,test,Transit,Transit,Transit,Transit,Transit
+2330,Kepler-207 b,Kepler-207,Transit,test,Transit,Transit,Transit,Transit,Transit
+2405,Kepler-207 c,Kepler-207,Transit,test,Transit,Transit,Transit,Transit,Transit
+733,Kepler-207 d,Kepler-207,Transit,test,Transit,Transit,Transit,Transit,Transit
+4619,Kepler-21 b,Kepler-21,Transit,test,Transit,Transit,Transit,Transit,Transit
+5242,Kepler-216 b,Kepler-216,Transit,test,Transit,Transit,Transit,Transit,Transit
+2669,Kepler-216 c,Kepler-216,Transit,test,Transit,Transit,Transit,Transit,Transit
+2692,Kepler-222 b,Kepler-222,Transit,test,Transit,Transit,Transit,Transit,Transit
+2363,Kepler-222 c,Kepler-222,Transit,test,Transit,Transit,Transit,Transit,Transit
+5225,Kepler-222 d,Kepler-222,Transit,test,Transit,Transit,Transit,Transit,Transit
+2412,Kepler-228 b,Kepler-228,Transit,test,Transit,Transit,Transit,Transit,Transit
+1694,Kepler-228 c,Kepler-228,Transit,test,Transit,Transit,Transit,Transit,Transit
+6357,Kepler-228 d,Kepler-228,Transit,test,Transit,Transit,Transit,Transit,Transit
+2470,Kepler-231 b,Kepler-231,Transit,test,Transit,Transit,Transit,Transit,Transit
+6132,Kepler-231 c,Kepler-231,Transit,test,Transit,Transit,Transit,Transit,Transit
+2740,Kepler-233 b,Kepler-233,Transit,test,Transit,Transit,Transit,Transit,Transit
+2642,Kepler-233 c,Kepler-233,Transit,test,Transit,Transit,Transit,Transit,Transit
+6136,Kepler-239 b,Kepler-239,Transit,test,Transit,Transit,Transit,Transit,Transit
+2484,Kepler-239 c,Kepler-239,Transit,test,Transit,Transit,Transit,Transit,Transit
+2601,Kepler-244 b,Kepler-244,Transit,test,Transit,Transit,Transit,Transit,Transit
+2021,Kepler-244 c,Kepler-244,Transit,test,Transit,Transit,Transit,Transit,Transit
+2098,Kepler-244 d,Kepler-244,Transit,test,Transit,Transit,Transit,Transit,Transit
+2591,Kepler-250 b,Kepler-250,Transit,test,Transit,Transit,Transit,Transit,Transit
+1982,Kepler-250 c,Kepler-250,Transit,test,Transit,Transit,Transit,Transit,Transit
+1806,Kepler-250 d,Kepler-250,Transit,test,Transit,Transit,Transit,Transit,Transit
+6159,Kepler-251 b,Kepler-251,Transit,test,Transit,Transit,Transit,Transit,Transit
+2746,Kepler-251 c,Kepler-251,Transit,test,Transit,Transit,Transit,Transit,Transit
+689,Kepler-251 d,Kepler-251,Transit,test,Transit,Transit,Transit,Transit,Transit
+2500,Kepler-251 e,Kepler-251,Transit,test,Transit,Transit,Transit,Transit,Transit
+1079,Kepler-256 b,Kepler-256,Transit,test,Transit,Transit,Transit,Transit,Transit
+2668,Kepler-256 c,Kepler-256,Transit,test,Transit,Transit,Transit,Transit,Transit
+1197,Kepler-256 d,Kepler-256,Transit,test,Transit,Transit,Transit,Transit,Transit
+2607,Kepler-256 e,Kepler-256,Transit,test,Transit,Transit,Transit,Transit,Transit
+2647,Kepler-262 b,Kepler-262,Transit,test,Transit,Transit,Transit,Transit,Transit
+5291,Kepler-262 c,Kepler-262,Transit,test,Transit,Transit,Transit,Transit,Transit
+2401,Kepler-267 b,Kepler-267,Transit,test,Transit,Transit,Transit,Transit,Transit
+5743,Kepler-267 c,Kepler-267,Transit,test,Transit,Transit,Transit,Transit,Transit
+5798,Kepler-267 d,Kepler-267,Transit,test,Transit,Transit,Transit,Transit,Transit
+2128,Kepler-27 b,Kepler-27,Transit,test,Transit,Transit,Transit,Transit,Transit
+2126,Kepler-27 c,Kepler-27,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1112,Kepler-27 d,Kepler-27,Transit,test,Transit,Transit,Transit,Transit,Transit
+2374,Kepler-276 b,Kepler-276,Transit,test,Transit,Transit,Transit,Transit,Transit
+2065,Kepler-276 c,Kepler-276,Transit,test,Transit,Transit,Transit,Transit,Transit
+5758,Kepler-276 d,Kepler-276,Transit,test,Transit,Transit,Transit,Transit,Transit
+2335,Kepler-280 b,Kepler-280,Transit,test,Transit,Transit,Transit,Transit,Transit
+2496,Kepler-280 c,Kepler-280,Transit,test,Transit,Transit,Transit,Transit,Transit
+1781,Kepler-282 b,Kepler-282,Transit,test,Transit,Transit,Transit,Transit,Transit
+2567,Kepler-282 c,Kepler-282,Transit,test,Transit,Transit,Transit,Transit,Transit
+5437,Kepler-282 d,Kepler-282,Transit,test,Transit,Transit,Transit,Transit,Transit
+1667,Kepler-282 e,Kepler-282,Transit,test,Transit,Transit,Transit,Transit,Transit
+5424,Kepler-286 b,Kepler-286,Transit,test,Transit,Transit,Transit,Transit,Transit
+2382,Kepler-286 c,Kepler-286,Transit,test,Transit,Transit,Transit,Transit,Transit
+2431,Kepler-286 d,Kepler-286,Transit,test,Transit,Transit,Transit,Transit,Transit
+2568,Kepler-286 e,Kepler-286,Transit,test,Transit,Transit,Transit,Transit,Transit
+2389,Kepler-287 b,Kepler-287,Transit,test,Transit,Transit,Transit,Transit,Transit
+2433,Kepler-287 c,Kepler-287,Transit,test,Transit,Transit,Transit,Transit,Transit
+2342,Kepler-293 b,Kepler-293,Transit,test,Transit,Transit,Transit,Transit,Transit
+2512,Kepler-293 c,Kepler-293,Transit,test,Transit,Transit,Transit,Transit,Transit
+2518,Kepler-300 b,Kepler-300,Transit,test,Transit,Transit,Transit,Transit,Transit
+2416,Kepler-300 c,Kepler-300,Transit,test,Transit,Transit,Transit,Transit,Transit
+2413,Kepler-305 b,Kepler-305,Transit,test,Transit,Transit,Transit,Transit,Transit
+5735,Kepler-305 c,Kepler-305,Transit,test,Transit,Transit,Transit,Transit,Transit
+4748,Kepler-305 d,Kepler-305,Transit,test,Transit,Transit,Transit,Transit,Transit
+5756,Kepler-305 e,Kepler-305,Transit,test,Transit,Transit,Transit,Transit,Transit
+996,Kepler-307 b,Kepler-307,Transit,test,Transit,Transit,Transit,Transit,Transit
+944,Kepler-307 c,Kepler-307,Transit,test,Transit,Transit,Transit,Transit,Transit
+1732,Kepler-312 b,Kepler-312,Transit,test,Transit,Transit,Transit,Transit,Transit
+2432,Kepler-312 c,Kepler-312,Transit,test,Transit,Transit,Transit,Transit,Transit
+5831,Kepler-319 b,Kepler-319,Transit,test,Transit,Transit,Transit,Transit,Transit
+2095,Kepler-319 c,Kepler-319,Transit,test,Transit,Transit,Transit,Transit,Transit
+2579,Kepler-319 d,Kepler-319,Transit,test,Transit,Transit,Transit,Transit,Transit
+4593,Kepler-323 b,Kepler-323,Transit,test,Transit,Transit,Transit,Transit,Transit
+4645,Kepler-323 c,Kepler-323,Transit,test,Transit,Transit,Transit,Transit,Transit
+1345,Kepler-327 b,Kepler-327,Transit,test,Transit,Transit,Transit,Transit,Transit
+1886,Kepler-327 c,Kepler-327,Transit,test,Transit,Transit,Transit,Transit,Transit
+1470,Kepler-327 d,Kepler-327,Transit,test,Transit,Transit,Transit,Transit,Transit
+5795,Kepler-336 b,Kepler-336,Transit,test,Transit,Transit,Transit,Transit,Transit
+1397,Kepler-336 c,Kepler-336,Transit,test,Transit,Transit,Transit,Transit,Transit
+1503,Kepler-336 d,Kepler-336,Transit,test,Transit,Transit,Transit,Transit,Transit
+2173,Kepler-34 b,Kepler-34,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2509,Kepler-344 b,Kepler-344,Transit,test,Transit,Transit,Transit,Transit,Transit
+1609,Kepler-344 c,Kepler-344,Transit,test,Transit,Transit,Transit,Transit,Transit
+2158,Kepler-35 b,Kepler-35,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2442,Kepler-353 b,Kepler-353,Transit,test,Transit,Transit,Transit,Transit,Transit
+2479,Kepler-353 c,Kepler-353,Transit,test,Transit,Transit,Transit,Transit,Transit
+2457,Kepler-357 b,Kepler-357,Transit,test,Transit,Transit,Transit,Transit,Transit
+1376,Kepler-357 c,Kepler-357,Transit,test,Transit,Transit,Transit,Transit,Transit
+2471,Kepler-357 d,Kepler-357,Transit,test,Transit,Transit,Transit,Transit,Transit
+2463,Kepler-359 b,Kepler-359,Transit,test,Transit,Transit,Transit,Transit,Transit
+2480,Kepler-359 c,Kepler-359,Transit,test,Transit,Transit,Transit,Transit,Transit
+2570,Kepler-359 d,Kepler-359,Transit,test,Transit,Transit,Transit,Transit,Transit
+1978,Kepler-365 b,Kepler-365,Transit,test,Transit,Transit,Transit,Transit,Transit
+2595,Kepler-365 c,Kepler-365,Transit,test,Transit,Transit,Transit,Transit,Transit
+2552,Kepler-371 b,Kepler-371,Transit,test,Transit,Transit,Transit,Transit,Transit
+684,Kepler-371 c,Kepler-371,Transit,test,Transit,Transit,Transit,Transit,Transit
+2460,Kepler-378 b,Kepler-378,Transit,test,Transit,Transit,Transit,Transit,Transit
+2583,Kepler-378 c,Kepler-378,Transit,test,Transit,Transit,Transit,Transit,Transit
+1876,Kepler-379 b,Kepler-379,Transit,test,Transit,Transit,Transit,Transit,Transit
+2465,Kepler-379 c,Kepler-379,Transit,test,Transit,Transit,Transit,Transit,Transit
+1760,Kepler-384 b,Kepler-384,Transit,test,Transit,Transit,Transit,Transit,Transit
+5799,Kepler-384 c,Kepler-384,Transit,test,Transit,Transit,Transit,Transit,Transit
+5993,Kepler-39 b,Kepler-39,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2505,Kepler-393 b,Kepler-393,Transit,test,Transit,Transit,Transit,Transit,Transit
+5824,Kepler-393 c,Kepler-393,Transit,test,Transit,Transit,Transit,Transit,Transit
+2632,Kepler-395 b,Kepler-395,Transit,test,Transit,Transit,Transit,Transit,Transit
+926,Kepler-395 c,Kepler-395,Transit,test,Transit,Transit,Transit,Transit,Transit
+1688,Kepler-40 b,Kepler-40,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2455,Kepler-404 b,Kepler-404,Transit,test,Transit,Transit,Transit,Transit,Transit
+1464,Kepler-404 c,Kepler-404,Transit,test,Transit,Transit,Transit,Transit,Transit
+2527,Kepler-411 b,Kepler-411,Transit,test,Transit,Transit,Transit,Transit,Transit
+1995,Kepler-411 c,Kepler-411,Transit,test,Transit,Transit,Transit,Transit,Transit
+1087,Kepler-411 d,Kepler-411,Transit,test,Transit,Transit,Transit,Transit,Transit
+1086,Kepler-414 b,Kepler-414,Transit,test,Transit,Transit,Transit,Transit,Transit
+2060,Kepler-414 c,Kepler-414,Transit,test,Transit,Transit,Transit,Transit,Transit
+2149,Kepler-42 b,Kepler-42,Transit,test,Transit,Transit,Transit,Transit,Transit
+2156,Kepler-42 c,Kepler-42,Transit,test,Transit,Transit,Transit,Transit,Transit
+6177,Kepler-42 d,Kepler-42,Transit,test,Transit,Transit,Transit,Transit,Transit
+2679,Kepler-422 b,Kepler-422,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2695,Kepler-428 b,Kepler-428,Transit,test,Transit,Transit,Transit,Transit,Transit
+6052,Kepler-436 b,Kepler-436,Transit,test,Transit,Transit,Transit,Transit,Transit
+3136,Kepler-436 c,Kepler-436,Transit,test,Transit,Transit,Transit,Transit,Transit
+2667,Kepler-439 b,Kepler-439,Transit,test,Transit,Transit,Transit,Transit,Transit
+6165,Kepler-442 b,Kepler-442,Transit,test,Transit,Transit,Transit,Transit,Transit
+2803,Kepler-449 b,Kepler-449,Transit,test,Transit,Transit,Transit,Transit,Transit
+2797,Kepler-449 c,Kepler-449,Transit,test,Transit,Transit,Transit,Transit,Transit
+2823,Kepler-453 b,Kepler-453,Transit,test,Transit,Transit,Radial Velocity,Transit,Transit
+713,Kepler-458 c,Kepler-458,Transit,test,Transit,Transit,Transit,Transit,Transit
+1932,Kepler-463 b,Kepler-463,Transit,test,Transit,Transit,Transit,Transit,Transit
+805,Kepler-473 b,Kepler-473,Transit,test,Transit,Transit,Transit,Transit,Transit
+3000,Kepler-479 b,Kepler-479,Transit,test,Transit,Transit,Transit,Transit,Transit
+3394,Kepler-489 b,Kepler-489,Transit,test,Transit,Transit,Transit,Transit,Transit
+2860,Kepler-499 b,Kepler-499,Transit,test,Transit,Transit,Transit,Transit,Transit
+2948,Kepler-500 b,Kepler-500,Transit,test,Transit,Transit,Transit,Transit,Transit
+5534,Kepler-504 b,Kepler-504,Transit,test,Transit,Transit,Transit,Transit,Transit
+5711,Kepler-507 b,Kepler-507,Transit,test,Transit,Transit,Transit,Transit,Transit
+3095,Kepler-513 b,Kepler-513,Transit,test,Transit,Transit,Transit,Transit,Transit
+3239,Kepler-517 b,Kepler-517,Transit,test,Transit,Transit,Transit,Transit,Transit
+681,Kepler-520 b,Kepler-520,Transit,test,Transit,Transit,Transit,Transit,Transit
+5847,Kepler-520 c,Kepler-520,Transit,test,Transit,Transit,Transit,Transit,Transit
+3224,Kepler-521 b,Kepler-521,Transit,test,Transit,Transit,Transit,Transit,Transit
+3172,Kepler-527 b,Kepler-527,Transit,test,Transit,Transit,Transit,Transit,Transit
+4606,Kepler-538 b,Kepler-538,Transit,test,Transit,Transit,Transit,Transit,Transit
+3278,Kepler-541 b,Kepler-541,Transit,test,Transit,Transit,Transit,Transit,Transit
+3063,Kepler-549 b,Kepler-549,Transit,test,Transit,Transit,Transit,Transit,Transit
+6197,Kepler-549 c,Kepler-549,Transit,test,Transit,Transit,Transit,Transit,Transit
+3949,Kepler-549 d,Kepler-549,Transit,test,Transit,Transit,Transit,Transit,Transit
+1527,Kepler-552 b,Kepler-552,Transit,test,Transit,Transit,Transit,Transit,Transit
+6066,Kepler-558 b,Kepler-558,Transit,test,Transit,Transit,Transit,Transit,Transit
+718,Kepler-563 b,Kepler-563,Transit,test,Transit,Transit,Transit,Transit,Transit
+700,Kepler-564 b,Kepler-564,Transit,test,Transit,Transit,Transit,Transit,Transit
+4805,Kepler-57 b,Kepler-57,Transit,test,Transit,Transit,Transit,Transit,Transit
+174,Kepler-57 c,Kepler-57,Transit,test,Transit,Transit,Transit,Transit,Transit
+3482,Kepler-572 b,Kepler-572,Transit,test,Transit,Transit,Transit,Transit,Transit
+51,Kepler-576 b,Kepler-576,Transit,test,Transit,Transit,Transit,Transit,Transit
+3414,Kepler-581 b,Kepler-581,Transit,test,Transit,Transit,Transit,Transit,Transit
+1239,Kepler-587 b,Kepler-587,Transit,test,Transit,Transit,Transit,Transit,Transit
+3541,Kepler-593 b,Kepler-593,Transit,test,Transit,Transit,Transit,Transit,Transit
+3315,Kepler-597 b,Kepler-597,Transit,test,Transit,Transit,Transit,Transit,Transit
+3364,Kepler-604 b,Kepler-604,Transit,test,Transit,Transit,Transit,Transit,Transit
+246,Kepler-610 b,Kepler-610,Transit,test,Transit,Transit,Transit,Transit,Transit
+2042,Kepler-610 c,Kepler-610,Transit,test,Transit,Transit,Transit,Transit,Transit
+945,Kepler-613 b,Kepler-613,Transit,test,Transit,Transit,Transit,Transit,Transit
+3517,Kepler-618 b,Kepler-618,Transit,test,Transit,Transit,Transit,Transit,Transit
+1784,Kepler-623 b,Kepler-623,Transit,test,Transit,Transit,Transit,Transit,Transit
+3265,Kepler-629 b,Kepler-629,Transit,test,Transit,Transit,Transit,Transit,Transit
+3289,Kepler-631 b,Kepler-631,Transit,test,Transit,Transit,Transit,Transit,Transit
+3439,Kepler-638 b,Kepler-638,Transit,test,Transit,Transit,Transit,Transit,Transit
+3412,Kepler-644 b,Kepler-644,Transit,test,Transit,Transit,Transit,Transit,Transit
+1707,Kepler-645 b,Kepler-645,Transit,test,Transit,Transit,Transit,Transit,Transit
+1607,Kepler-649 b,Kepler-649,Transit,test,Transit,Transit,Transit,Transit,Transit
+3473,Kepler-654 b,Kepler-654,Transit,test,Transit,Transit,Transit,Transit,Transit
+1326,Kepler-657 b,Kepler-657,Transit,test,Transit,Transit,Transit,Transit,Transit
+3511,Kepler-663 b,Kepler-663,Transit,test,Transit,Transit,Transit,Transit,Transit
+1514,Kepler-667 b,Kepler-667,Transit,test,Transit,Transit,Transit,Transit,Transit
+192,Kepler-674 b,Kepler-674,Transit,test,Transit,Transit,Transit,Transit,Transit
+6121,Kepler-677 b,Kepler-677,Transit,test,Transit,Transit,Transit,Transit,Transit
+206,Kepler-682 b,Kepler-682,Transit,test,Transit,Transit,Transit,Transit,Transit
+1033,Kepler-684 b,Kepler-684,Transit,test,Transit,Transit,Transit,Transit,Transit
+1712,Kepler-687 b,Kepler-687,Transit,test,Transit,Transit,Transit,Transit,Transit
+6182,Kepler-692 b,Kepler-692,Transit,test,Transit,Transit,Transit,Transit,Transit
+6204,Kepler-693 b,Kepler-693,Transit,test,Transit,Transit,Transit,Transit,Transit
+6033,Kepler-695 b,Kepler-695,Transit,test,Transit,Transit,Transit,Transit,Transit
+3343,Kepler-701 b,Kepler-701,Transit,test,Transit,Transit,Transit,Transit,Transit
+2102,Kepler-705 b,Kepler-705,Transit,test,Transit,Transit,Transit,Radial Velocity,Transit
+3344,Kepler-709 b,Kepler-709,Transit,test,Transit,Transit,Transit,Transit,Transit
+3388,Kepler-713 b,Kepler-713,Transit,test,Transit,Transit,Transit,Transit,Transit
+3423,Kepler-719 b,Kepler-719,Transit,test,Transit,Transit,Transit,Transit,Transit
+3372,Kepler-726 b,Kepler-726,Transit,test,Transit,Transit,Transit,Transit,Transit
+2019,Kepler-733 b,Kepler-733,Transit,test,Transit,Transit,Transit,Transit,Transit
+1443,Kepler-740 b,Kepler-740,Transit,test,Transit,Transit,Transit,Transit,Transit
+5289,Kepler-745 b,Kepler-745,Transit,test,Transit,Transit,Transit,Transit,Transit
+837,Kepler-749 b,Kepler-749,Transit,test,Transit,Transit,Transit,Transit,Transit
+5545,Kepler-750 b,Kepler-750,Transit,test,Transit,Transit,Transit,Transit,Transit
+2945,Kepler-750 c,Kepler-750,Transit,test,Transit,Transit,Transit,Transit,Transit
+6253,Kepler-761 b,Kepler-761,Transit,test,Transit,Transit,Transit,Transit,Transit
+2774,Kepler-766 b,Kepler-766,Transit,test,Transit,Transit,Transit,Transit,Transit
+2795,Kepler-772 b,Kepler-772,Transit,test,Transit,Transit,Transit,Transit,Transit
+5472,Kepler-778 b,Kepler-778,Transit,test,Transit,Transit,Transit,Transit,Transit
+194,Kepler-783 b,Kepler-783,Transit,test,Transit,Transit,Transit,Transit,Transit
+4050,Kepler-783 c,Kepler-783,Transit,test,Transit,Transit,Transit,Transit,Transit
+876,Kepler-784 b,Kepler-784,Transit,test,Transit,Transit,Transit,Transit,Transit
+1472,Kepler-784 c,Kepler-784,Transit,test,Transit,Transit,Transit,Transit,Transit
+2889,Kepler-790 b,Kepler-790,Transit,test,Transit,Transit,Transit,Transit,Transit
+2883,Kepler-791 b,Kepler-791,Transit,test,Transit,Transit,Transit,Transit,Transit
+33,Kepler-796 b,Kepler-796,Transit,test,Transit,Transit,Transit,Transit,Transit
+2862,Kepler-799 b,Kepler-799,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5769,Kepler-799 c,Kepler-799,Transit,test,Transit,Transit,Transit,Transit,Transit
+2949,Kepler-808 b,Kepler-808,Transit,test,Transit,Transit,Transit,Transit,Transit
+2937,Kepler-811 b,Kepler-811,Transit,test,Transit,Transit,Transit,Transit,Transit
+2936,Kepler-813 b,Kepler-813,Transit,test,Transit,Transit,Transit,Transit,Transit
+2929,Kepler-815 b,Kepler-815,Transit,test,Transit,Transit,Transit,Transit,Transit
+2921,Kepler-820 b,Kepler-820,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1105,Kepler-825 b,Kepler-825,Transit,test,Transit,Transit,Transit,Transit,Transit
+890,Kepler-825 c,Kepler-825,Transit,test,Transit,Transit,Transit,Transit,Transit
+1693,Kepler-827 b,Kepler-827,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2905,Kepler-830 b,Kepler-830,Transit,test,Transit,Transit,Transit,Transit,Transit
+907,Kepler-835 b,Kepler-835,Transit,test,Transit,Transit,Transit,Transit,Transit
+2887,Kepler-842 b,Kepler-842,Transit,test,Transit,Transit,Transit,Transit,Transit
+2873,Kepler-847 b,Kepler-847,Transit,test,Transit,Transit,Transit,Transit,Transit
+1690,Kepler-851 b,Kepler-851,Transit,test,Transit,Transit,Transit,Transit,Transit
+1744,Kepler-859 b,Kepler-859,Transit,test,Transit,Transit,Transit,Transit,Transit
+1457,Kepler-864 b,Kepler-864,Transit,test,Transit,Transit,Transit,Transit,Transit
+1123,Kepler-864 c,Kepler-864,Transit,test,Transit,Transit,Transit,Transit,Transit
+2868,Kepler-867 b,Kepler-867,Transit,test,Transit,Transit,Transit,Transit,Transit
+2857,Kepler-871 b,Kepler-871,Transit,test,Transit,Transit,Transit,Transit,Transit
+5894,Kepler-876 b,Kepler-876,Transit,test,Transit,Transit,Transit,Transit,Transit
+2931,Kepler-883 b,Kepler-883,Transit,test,Transit,Transit,Transit,Transit,Transit
+571,Kepler-891 b,Kepler-891,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+2912,Kepler-899 b,Kepler-899,Transit,test,Transit,Transit,Transit,Transit,Transit
+6127,Kepler-9 b,Kepler-9,Transit,test,Transit,Transit,Transit,Transit,Transit
+3848,Kepler-9 c,Kepler-9,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+110,Kepler-9 d,Kepler-9,Transit,test,Transit,Transit,Transit,Transit,Transit
+2926,Kepler-905 b,Kepler-905,Transit,test,Transit,Transit,Transit,Transit,Transit
+2872,Kepler-910 b,Kepler-910,Transit,test,Transit,Transit,Transit,Transit,Transit
+1161,Kepler-915 b,Kepler-915,Transit,test,Transit,Transit,Transit,Transit,Transit
+1767,Kepler-92 b,Kepler-92,Transit,test,Transit,Transit,Transit,Transit,Transit
+1901,Kepler-92 c,Kepler-92,Transit,test,Transit,Transit,Transit,Transit,Transit
+2802,Kepler-92 d,Kepler-92,Transit,test,Transit,Transit,Transit,Transit,Transit
+2892,Kepler-924 b,Kepler-924,Transit,test,Transit,Transit,Transit,Transit,Transit
+1355,Kepler-925 b,Kepler-925,Transit,test,Transit,Transit,Transit,Transit,Transit
+2886,Kepler-930 b,Kepler-930,Transit,test,Transit,Transit,Transit,Transit,Transit
+3006,Kepler-936 b,Kepler-936,Transit,test,Transit,Transit,Transit,Transit,Transit
+3041,Kepler-942 b,Kepler-942,Transit,test,Transit,Transit,Transit,Transit,Transit
+5967,Kepler-95 b,Kepler-95,Transit,test,Transit,Transit,Transit,Transit,Transit
+848,Kepler-954 b,Kepler-954,Transit,test,Transit,Transit,Transit,Transit,Transit
+1660,Kepler-959 b,Kepler-959,Transit,test,Transit,Transit,Transit,Transit,Transit
+2996,Kepler-965 b,Kepler-965,Transit,test,Transit,Transit,Transit,Transit,Transit
+5850,Kepler-97 b,Kepler-97,Transit,test,Transit,Transit,Transit,Transit,Transit
+1789,Kepler-970 b,Kepler-970,Transit,test,Transit,Transit,Transit,Transit,Transit
+2971,Kepler-974 b,Kepler-974,Transit,test,Transit,Transit,Transit,Transit,Transit
+3022,Kepler-978 b,Kepler-978,Transit,test,Transit,Transit,Transit,Transit,Transit
+2719,Kepler-98 b,Kepler-98,Transit,test,Transit,Transit,Transit,Transit,Transit
+2003,Kepler-985 b,Kepler-985,Transit,test,Transit,Transit,Transit,Transit,Transit
+1293,Kepler-987 b,Kepler-987,Transit,test,Transit,Transit,Transit,Transit,Transit
+1475,Kepler-990 b,Kepler-990,Transit,test,Transit,Transit,Transit,Transit,Transit
+3392,Kepler-990 c,Kepler-990,Transit,test,Transit,Transit,Transit,Transit,Transit
+2969,Kepler-998 b,Kepler-998,Transit,test,Transit,Transit,Transit,Transit,Transit
+179,LHS 1815 b,LHS 1815,Transit,test,Transit,Transit,Transit,Transit,Transit
+5103,LHS 1903 b,LHS 1903,Transit,test,Transit,Transit,Transit,Transit,Transit
+5104,LHS 1903 c,LHS 1903,Transit,test,Transit,Transit,Transit,Transit,Transit
+5032,LHS 1903 d,LHS 1903,Transit,test,Transit,Transit,Transit,Transit,Transit
+5033,LHS 1903 e,LHS 1903,Transit,test,Transit,Transit,Transit,Transit,Transit
+3866,LSPM J2116+0234 b,LSPM J2116+0234,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4516,MASCARA-1 b,MASCARA-1,Transit,test,Transit,Transit,Transit,Transit,Transit
+5568,NGC 2682 Sand 1429 b,NGC 2682 Sand 1429,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+395,NGTS-10 b,NGTS-10,Transit,test,Transit,Transit,Transit,Transit,Transit
+4099,NGTS-15 b,NGTS-15,Transit,test,Transit,Transit,Transit,Transit,Transit
+4559,NGTS-24 b,NGTS-24,Transit,test,Transit,Transit,Transit,Transit,Transit
+855,NGTS-30 b,NGTS-30,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5061,NGTS-35 b,NGTS-35,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+3963,NGTS-8 b,NGTS-8,Transit,test,Transit,Transit,Transit,Transit,Transit
+61,OGLE-TR-182 b,OGLE-TR-182,Transit,test,Transit,Transit,Transit,Transit,Transit
+2319,POTS-1 b,POTS-1,Transit,test,Transit,Transit,Transit,Transit,Transit
+2326,Qatar-4 b,Qatar-4,Transit,test,Transit,Transit,Transit,Transit,Transit
+6325,Qatar-7 b,Qatar-7,Transit,test,Transit,Transit,Transit,Transit,Transit
+3570,Ross 128 b,Ross 128,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5628,TIC 139270665 b,TIC 139270665,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4777,TIC 139270665 c,TIC 139270665,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5632,TIC 154870955 b,TIC 154870955,Transit,test,Transit,Transit,Transit,Transit,Transit
+4030,TIC 237913194 b,TIC 237913194,Transit,test,Transit,Transit,Transit,Transit,Transit
+1162,TIC 241249530 b,TIC 241249530,Transit,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+5123,TIC 245076932 b,TIC 245076932,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4546,TIC 279401253 b,TIC 279401253,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4550,TIC 279401253 c,TIC 279401253,Transit,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+5151,TIC 290487717 b,TIC 290487717,Transit,test,Transit,Transit,Transit,Transit,Transit
+1498,TIC 349520724 b,TIC 349520724,Transit,test,Transit,Transit,Transit,Transit,Transit
+5675,TIC 423703298 b,TIC 423703298,Transit,test,Transit,Transit,Transit,Transit,Transit
+4746,TIC 4672985 b,TIC 4672985,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1870,TIC 77552382 b,TIC 77552382,Transit,test,Transit,Transit,Transit,Transit,Transit
+1421,TOI-1036 b,TOI-1036,Transit,test,Transit,Transit,Transit,Transit,Transit
+4608,TOI-1052 b,TOI-1052,Transit,test,Transit,Transit,Transit,Transit,Transit
+4612,TOI-1052 c,TOI-1052,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+239,TOI-1105 b,TOI-1105,Transit,test,Transit,Transit,Transit,Transit,Transit
+4861,TOI-1180 b,TOI-1180,Transit,test,Transit,Transit,Transit,Transit,Transit
+4991,TOI-1203.01,TOI-1203.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+5877,TOI-1227 b,TOI-1227,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4607,TOI-1235 b,TOI-1235,Transit,test,Transit,Transit,Transit,Transit,Transit
+5473,TOI-1244 b,TOI-1244,Transit,test,Transit,Transit,Transit,Transit,Transit
+4801,TOI-1248 b,TOI-1248,Transit,test,Transit,Transit,Transit,Transit,Transit
+1540,TOI-1266 b,TOI-1266,Transit,test,Transit,Transit,Transit,Transit,Transit
+2089,TOI-1266 c,TOI-1266,Transit,test,Transit,Transit,Transit,Transit,Transit
+5512,TOI-1291 b,TOI-1291,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+621,TOI-1294 b,TOI-1294,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+816,TOI-1294 c,TOI-1294,Radial Velocity,test,Radial Velocity,Transit,Radial Velocity,Radial Velocity,Transit
+1564,TOI-1301.01,TOI-1301.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+1861,TOI-1347 b,TOI-1347,Transit,test,Transit,Transit,Transit,Transit,Transit
+5558,TOI-1347 c,TOI-1347,Transit,test,Transit,Transit,Transit,Transit,Transit
+4740,TOI-1410.01,TOI-1410.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+485,TOI-1416 b,TOI-1416,Transit,test,Transit,Transit,Transit,Transit,Transit
+5447,TOI-1443 b,TOI-1443,Transit,test,Transit,Transit,Transit,Transit,Transit
+4488,TOI-1452 b,TOI-1452,Transit,test,Transit,Transit,Transit,Transit,Transit
+4874,TOI-1467 b,TOI-1467,Transit,test,Transit,Transit,Transit,Transit,Transit
+4921,TOI-1478 b,TOI-1478,Transit,test,Transit,Transit,Transit,Transit,Transit
+4749,TOI-1601 b,TOI-1601,Transit,test,Transit,Transit,Transit,Transit,Transit
+4786,TOI-1669 b,TOI-1669,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5520,TOI-1669 c,TOI-1669,Transit,test,Transit,Transit,Transit,Transit,Transit
+4033,TOI-169 b,TOI-169,Transit,test,Transit,Transit,Transit,Transit,Transit
+5194,TOI-1710 b,TOI-1710,Transit,test,Transit,Transit,Transit,Transit,Transit
+1489,TOI-1728 b,TOI-1728,Transit,test,Transit,Transit,Transit,Transit,Transit
+1558,TOI-1743 b,TOI-1743,Transit,test,Transit,Transit,Transit,Transit,Transit
+4126,TOI-1749 b,TOI-1749,Transit,test,Transit,Transit,Transit,Transit,Transit
+1730,TOI-1749 c,TOI-1749,Transit,test,Transit,Transit,Transit,Transit,Transit
+4127,TOI-1749 d,TOI-1749,Transit,test,Transit,Transit,Transit,Transit,Transit
+5879,TOI-1758 b,TOI-1758,Transit,test,Transit,Transit,Transit,Transit,Transit
+4814,TOI-1772.01,TOI-1772.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+4764,TOI-1794 b,TOI-1794,Transit,test,Transit,Transit,Transit,Transit,Transit
+4918,TOI-1803 b,TOI-1803,Transit,test,Transit,Transit,Transit,Transit,Transit
+1254,TOI-1803 c,TOI-1803,Transit,test,Transit,Transit,Transit,Transit,Transit
+4551,TOI-1811 b,TOI-1811,Transit,test,Transit,Transit,Transit,Transit,Transit
+1340,TOI-1846 b,TOI-1846,Transit,test,Transit,Transit,Transit,Transit,Transit
+4794,TOI-1855 b,TOI-1855,Transit,test,Transit,Transit,Transit,Transit,Transit
+411,TOI-1899 b,TOI-1899,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+732,TOI-201 b,TOI-201,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6092,TOI-201 d,TOI-201,Transit,test,Transit,Transit,Transit,Transit,Transit
+493,TOI-2031 A b,TOI-2031 A,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+263,TOI-2068 b,TOI-2068,Transit,test,Transit,Transit,Transit,Transit,Transit
+4615,TOI-2084 b,TOI-2084,Transit,test,Transit,Transit,Transit,Transit,Transit
+5908,TOI-2094 b,TOI-2094,Transit,test,Transit,Transit,Transit,Transit,Transit
+1971,TOI-2114 b,TOI-2114,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4331,TOI-2136 b,TOI-2136,Transit,test,Transit,Transit,Transit,Transit,Transit
+5931,TOI-2141 b,TOI-2141,Transit,test,Transit,Transit,Transit,Transit,Transit
+4987,TOI-2141 c,TOI-2141,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+883,TOI-2141 d,TOI-2141,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+792,TOI-216.02,TOI-216.02,Transit,test,Transit,Transit,Transit,Transit,Transit
+1479,TOI-2193 A b,TOI-2193 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+207,TOI-220 b,TOI-220,Transit,test,Transit,Transit,Transit,Transit,Transit
+4494,TOI-2207 b,TOI-2207,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1195,TOI-2227 b,TOI-2227,Transit,test,Transit,Transit,Transit,Transit,Transit
+5063,TOI-2267 b,TOI-2267,Transit,test,Transit,Transit,Transit,Transit,Transit
+5062,TOI-2267 c,TOI-2267,Transit,test,Transit,Transit,Transit,Transit,Transit
+6012,TOI-2267 d,TOI-2267,Transit,test,Transit,Transit,Transit,Transit,Transit
+4564,TOI-2338 b,TOI-2338,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+496,TOI-2374 b,TOI-2374,Transit,test,Transit,Transit,Transit,Transit,Transit
+4503,TOI-2421 b,TOI-2421,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5939,TOI-2458 b,TOI-2458,Transit,test,Transit,Transit,Transit,Transit,Transit
+4835,TOI-2458 c,TOI-2458,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+4054,TOI-251 b,TOI-251,Transit,test,Transit,Transit,Transit,Transit,Transit
+5417,TOI-2524 b,TOI-2524,Transit,test,Transit,Transit,Transit,Transit,Transit
+813,TOI-2578 b,TOI-2578,Transit,test,Transit,Transit,Transit,Transit,Transit
+554,TOI-260 b,TOI-260,Transit,test,Transit,Transit,Transit,Transit,Transit
+1191,TOI-261.01,TOI-261.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+5160,TOI-2654 b,TOI-2654,Transit,test,Transit,Transit,Transit,Transit,Transit
+1528,TOI-2719 b,TOI-2719,Transit,test,Transit,Transit,Transit,Transit,Transit
+5425,TOI-283 b,TOI-283,Transit,test,Transit,Transit,Transit,Transit,Transit
+1196,TOI-2977 b,TOI-2977,Transit,test,Transit,Transit,Transit,Transit,Transit
+2497,TOI-3053 b,TOI-3053,Transit,test,Transit,Transit,Transit,Transit,Transit
+214,TOI-3278 b,TOI-3278,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1849,TOI-333 b,TOI-333,Transit,test,Transit,Transit,Transit,Transit,Transit
+5175,TOI-3457 b,TOI-3457,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4417,TOI-3540 A b,TOI-3540 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+4419,TOI-3693 b,TOI-3693,Transit,test,Transit,Transit,Transit,Transit,Transit
+675,TOI-3807 b,TOI-3807,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1523,TOI-3896 b,TOI-3896,Transit,test,Transit,Transit,Transit,Transit,Transit
+6316,TOI-3912 b,TOI-3912,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+860,TOI-4029 b,TOI-4029,Transit,test,Transit,Transit,Transit,Transit,Transit
+5113,TOI-4127 b,TOI-4127,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1208,TOI-4155 b,TOI-4155,Transit,test,Transit,Transit,Transit,Transit,Transit
+1450,TOI-4308 b,TOI-4308,Transit,test,Transit,Transit,Transit,Transit,Transit
+1505,TOI-4364 b,TOI-4364,Transit,test,Transit,Transit,Transit,Transit,Transit
+1828,TOI-444 b,TOI-444,Transit,test,Transit,Transit,Transit,Transit,Transit
+5190,TOI-4458 b,TOI-4458,Transit,test,Transit,Transit,Transit,Transit,Transit
+5864,TOI-4479 b,TOI-4479,Transit,test,Transit,Transit,Transit,Transit,Transit
+1654,TOI-4495 b,TOI-4495,Transit,test,Transit,Transit,Transit,Transit,Transit
+1543,TOI-4495 c,TOI-4495,Transit,test,Transit,Transit,Transit,Transit,Transit
+256,TOI-4527.01,TOI-4527.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+4522,TOI-4582 b,TOI-4582,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5120,TOI-4640 b,TOI-4640,Transit,test,Transit,Transit,Transit,Transit,Transit
+4888,TOI-4734 b,TOI-4734,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4538,TOI-4791 b,TOI-4791,Transit,test,Transit,Transit,Transit,Transit,Transit
+4029,TOI-481 b,TOI-481,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5125,TOI-4930 b,TOI-4930,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4852,TOI-5005 b,TOI-5005,Transit,test,Transit,Transit,Transit,Transit,Transit
+4832,TOI-5076 b,TOI-5076,Transit,test,Transit,Transit,Transit,Transit,Transit
+4846,TOI-5110 b,TOI-5110,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+6337,TOI-5160 b,TOI-5160,Transit,test,Transit,Transit,Transit,Transit,Transit
+5608,TOI-5210 b,TOI-5210,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1440,TOI-5292 A b,TOI-5292 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+1811,TOI-532 b,TOI-532,Transit,test,Transit,Transit,Transit,Transit,Transit
+5131,TOI-5335 b,TOI-5335,Transit,test,Transit,Transit,Transit,Transit,Transit
+5014,TOI-5350 b,TOI-5350,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5135,TOI-5486 b,TOI-5486,Transit,test,Transit,Transit,Transit,Transit,Transit
+4563,TOI-5542 b,TOI-5542,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5690,TOI-5595 b,TOI-5595,Transit,test,Transit,Transit,Transit,Transit,Transit
+1117,TOI-5624 b,TOI-5624,Transit,test,Transit,Transit,Transit,Transit,Transit
+5137,TOI-5624 c,TOI-5624,Transit,test,Transit,Transit,Transit,Transit,Transit
+5705,TOI-5624 d,TOI-5624,Transit,test,Transit,Transit,Transit,Transit,Transit
+691,TOI-5624 e,TOI-5624,Transit,test,Transit,Transit,Transit,Transit,Transit
+5145,TOI-5630 b,TOI-5630,Transit,test,Transit,Transit,Transit,Transit,Transit
+4855,TOI-5688 A b,TOI-5688 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+1057,TOI-5728 b,TOI-5728,Transit,test,Transit,Transit,Transit,Transit,Transit
+1271,TOI-5786 b,TOI-5786,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4646,TOI-5803 b,TOI-5803,Transit,test,Transit,Transit,Transit,Transit,Transit
+5150,TOI-5926 b,TOI-5926,Transit,test,Transit,Transit,Transit,Transit,Transit
+5026,TOI-6000 b,TOI-6000,Transit,test,Transit,Transit,Transit,Transit,Transit
+4879,TOI-6038 A b,TOI-6038 A,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1512,TOI-615 b,TOI-615,Transit,test,Transit,Transit,Transit,Transit,Transit
+5582,TOI-6281 b,TOI-6281,Transit,test,Transit,Transit,Transit,Transit,Transit
+5031,TOI-6303 b,TOI-6303,Transit,test,Transit,Transit,Transit,Transit,Transit
+523,TOI-6324 b,TOI-6324,Transit,test,Transit,Transit,Transit,Transit,Transit
+5157,TOI-6393 b,TOI-6393,Transit,test,Transit,Transit,Transit,Transit,Transit
+5003,TOI-654.01,TOI-654.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+5438,TOI-663 b,TOI-663,Transit,test,Transit,Transit,Transit,Transit,Transit
+4766,TOI-663 c,TOI-663,Transit,test,Transit,Transit,Transit,Transit,Transit
+5446,TOI-663 d,TOI-663,Transit,test,Transit,Transit,Transit,Transit,Transit
+5683,TOI-6707 b,TOI-6707,Transit,test,Transit,Transit,Transit,Transit,Transit
+5176,TOI-6884 b,TOI-6884,Transit,test,Transit,Transit,Transit,Transit,Transit
+1737,TOI-7008 b,TOI-7008,Transit,test,Transit,Transit,Transit,Transit,Transit
+1722,TOI-7041 b,TOI-7041,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+5067,TOI-7166 b,TOI-7166,Transit,test,Transit,Transit,Transit,Transit,Transit
+1974,TOI-7169 b,TOI-7169,Transit,test,Transit,Transit,Transit,Transit,Transit
+940,TOI-7394 B b,TOI-7394 B,Transit,test,Transit,Transit,Transit,Transit,Transit
+476,TOI-771 b,TOI-771,Transit,test,Transit,Transit,Transit,Transit,Transit
+546,TOI-771 c,TOI-771,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+5924,TOI-799 b,TOI-799,Transit,test,Transit,Transit,Transit,Transit,Transit
+5929,TOI-808 b,TOI-808,Transit,test,Transit,Transit,Transit,Transit,Transit
+478,TOI-836 b,TOI-836,Transit,test,Transit,Transit,Transit,Transit,Transit
+645,TOI-871 b,TOI-871,Transit,test,Transit,Transit,Transit,Transit,Transit
+4669,TOI-904 b,TOI-904,Transit,test,Transit,Transit,Transit,Transit,Transit
+4674,TOI-904 c,TOI-904,Transit,test,Transit,Transit,Transit,Radial Velocity,Transit
+106,TOI-907.01,TOI-907.01,Transit,test,Transit,Transit,Transit,Transit,Transit
+4533,TOI-942 b,TOI-942,Transit,test,Transit,Transit,Transit,Transit,Transit
+4524,TOI-942 c,TOI-942,Transit,test,Transit,Transit,Transit,Transit,Transit
+2115,TYC 3667-1280-1 b,TYC 3667-1280-1,Radial Velocity,test,Radial Velocity,Transit,Transit,Transit,Transit
+374,V1298 Tau b,V1298 Tau,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+384,V1298 Tau c,V1298 Tau,Transit,test,Transit,Transit,Transit,Transit,Transit
+385,V1298 Tau d,V1298 Tau,Transit,test,Transit,Transit,Transit,Transit,Transit
+386,V1298 Tau e,V1298 Tau,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+4941,WASP-102 b,WASP-102,Transit,test,Transit,Transit,Transit,Transit,Transit
+5515,WASP-104 b,WASP-104,Transit,test,Transit,Transit,Transit,Transit,Transit
+4930,WASP-116 b,WASP-116,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+1676,WASP-124 b,WASP-124,Transit,test,Transit,Transit,Transit,Transit,Transit
+136,WASP-130 b,WASP-130,Transit,test,Transit,Transit,Transit,Transit,Transit
+344,WASP-139 b,WASP-139,Transit,test,Transit,Transit,Transit,Transit,Transit
+5556,WASP-144 b,WASP-144,Transit,test,Transit,Transit,Transit,Transit,Transit
+1635,WASP-145 A b,WASP-145 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+3987,WASP-150 b,WASP-150,Transit,test,Transit,Transit,Transit,Transit,Transit
+634,WASP-151 b,WASP-151,Transit,test,Transit,Transit,Transit,Transit,Transit
+3741,WASP-158 b,WASP-158,Transit,test,Transit,Transit,Transit,Transit,Transit
+365,WASP-164 b,WASP-164,Transit,test,Transit,Transit,Transit,Transit,Transit
+1016,WASP-170 b,WASP-170,Transit,test,Transit,Transit,Transit,Transit,Transit
+617,WASP-174 b,WASP-174,Transit,test,Transit,Transit,Transit,Transit,Transit
+383,WASP-178 b,WASP-178,Transit,test,Transit,Transit,Transit,Transit,Transit
+3934,WASP-180 A b,WASP-180 A,Transit,test,Transit,Transit,Transit,Transit,Transit
+6231,WASP-183 b,WASP-183,Transit,test,Transit,Transit,Transit,Transit,Transit
+4935,WASP-188 b,WASP-188,Transit,test,Radial Velocity,Transit,Transit,Transit,Transit
+521,WASP-193 b,WASP-193,Transit,test,Transit,Transit,Transit,Transit,Transit
+318,WASP-20 b,WASP-20,Transit,test,Transit,Transit,Transit,Transit,Transit
+3681,WASP-22 b,WASP-22,Transit,test,Transit,Transit,Transit,Transit,Transit
+107,WASP-31 b,WASP-31,Transit,test,Transit,Transit,Transit,Transit,Transit
+2838,WASP-36 b,WASP-36,Transit,test,Transit,Transit,Transit,Transit,Transit
+2773,WASP-42 b,WASP-42,Transit,test,Transit,Transit,Transit,Transit,Transit
+2811,WASP-46 b,WASP-46,Transit,test,Transit,Transit,Transit,Transit,Transit
+1412,WASP-57 b,WASP-57,Transit,test,Transit,Transit,Transit,Transit,Transit
+1094,WASP-59 b,WASP-59,Transit,test,Transit,Transit,Transit,Transit,Transit
+1942,WASP-60 b,WASP-60,Transit,test,Transit,Transit,Transit,Transit,Transit
+126,WASP-61 b,WASP-61,Transit,test,Transit,Transit,Transit,Transit,Transit
+316,WASP-69 b,WASP-69,Transit,test,Transit,Transit,Transit,Transit,Transit
+2018,WASP-73 b,WASP-73,Transit,test,Transit,Transit,Transit,Transit,Transit
+328,WASP-76 b,WASP-76,Transit,test,Transit,Transit,Transit,Transit,Transit
+5394,WASP-8 b,WASP-8,Transit,test,Transit,Transit,Transit,Transit,Transit
+2226,WASP-8 c,WASP-8,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+5883,WASP-87 b,WASP-87,Transit,test,Transit,Transit,Transit,Transit,Transit
+2842,WASP-90 b,WASP-90,Transit,test,Transit,Transit,Transit,Transit,Transit
+2799,WASP-92 b,WASP-92,Transit,test,Transit,Transit,Transit,Transit,Transit
+313,WASP-96 b,WASP-96,Transit,test,Transit,Transit,Transit,Transit,Transit
+2327,WTS-2 b,WTS-2,Transit,test,Transit,Transit,Transit,Transit,Transit
+4022,Wendelstein-1 b,Wendelstein-1,Transit,test,Transit,Transit,Transit,Transit,Transit
+3707,XO-1 b,XO-1,Transit,test,Transit,Transit,Transit,Transit,Transit
+3636,XO-6 b,XO-6,Transit,test,Transit,Transit,Transit,Transit,Transit
+1991,alf Ari b,alf Ari,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+1588,eps Ind A b,eps Ind A,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4319,gam Psc b,gam Psc,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+114,ups And b,ups And,Radial Velocity,test,Transit,Transit,Transit,Transit,Transit
+1835,ups And c,ups And,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+115,ups And d,ups And,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit
+4313,ups Leo b,ups Leo,Radial Velocity,test,Radial Velocity,Radial Velocity,Radial Velocity,Radial Velocity,Transit

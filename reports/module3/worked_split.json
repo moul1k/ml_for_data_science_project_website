@@ -1,0 +1,34 @@
+{
+  "feature": "pl_orbper",
+  "threshold_days": 214.49070739746094,
+  "class_order": [
+    "Radial Velocity",
+    "Transit"
+  ],
+  "counts": {
+    "parent": [
+      934,
+      3768
+    ],
+    "left": [
+      413,
+      3718
+    ],
+    "right": [
+      521,
+      50
+    ]
+  },
+  "entropy": {
+    "parent": 0.7191974822175065,
+    "left": 0.46891885384017673,
+    "right": 0.4282917314471877
+  },
+  "gini": {
+    "parent": 0.31836294717706126,
+    "left": 0.17996126728602224,
+    "right": 0.15979585389567563
+  },
+  "information_gain_bits": 0.25521229211327123,
+  "gini_decrease": 0.1408505210322317
+}

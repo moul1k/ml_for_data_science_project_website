@@ -1,0 +1,37 @@
+|--- pl_orbper <= 236.11800
+|   |--- pl_orbper <= 33.67054
+|   |   |--- st_mass <= 0.47050
+|   |   |   |--- pl_orbper <= 8.39811
+|   |   |   |   |--- class: Transit
+|   |   |   |--- pl_orbper >  8.39811
+|   |   |   |   |--- class: Transit
+|   |   |--- st_mass >  0.47050
+|   |   |   |--- pl_rade <= 2.79968
+|   |   |   |   |--- class: Transit
+|   |   |   |--- pl_rade >  2.79968
+|   |   |   |   |--- class: Transit
+|   |--- pl_orbper >  33.67054
+|   |   |--- pl_rade <= 12.35000
+|   |   |   |--- st_teff <= 4212.00000
+|   |   |   |   |--- class: Radial Velocity
+|   |   |   |--- st_teff >  4212.00000
+|   |   |   |   |--- class: Transit
+|   |   |--- pl_rade >  12.35000
+|   |   |   |--- st_teff <= 4970.00000
+|   |   |   |   |--- class: Radial Velocity
+|   |   |   |--- st_teff >  4970.00000
+|   |   |   |   |--- class: Radial Velocity
+|--- pl_orbper >  236.11800
+|   |--- pl_rade <= 11.88695
+|   |   |--- pl_orbper <= 483.55954
+|   |   |   |--- class: Transit
+|   |   |--- pl_orbper >  483.55954
+|   |   |   |--- class: Radial Velocity
+|   |--- pl_rade >  11.88695
+|   |   |--- pl_rade <= 12.47099
+|   |   |   |--- pl_bmasse <= 4142.90356
+|   |   |   |   |--- class: Radial Velocity
+|   |   |   |--- pl_bmasse >  4142.90356
+|   |   |   |   |--- class: Radial Velocity
+|   |   |--- pl_rade >  12.47099
+|   |   |   |--- class: Radial Velocity

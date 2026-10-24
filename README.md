@@ -2,11 +2,11 @@
 
 **Moulik Kumar**
 
-Project Assignment 1 — Machine Learning for Data Science
+Project Parts 1–3 — Machine Learning for Data Science
 
 [View the working website](https://moul1k.github.io/ml_for_data_science_project_website/)
 
-This project explores confirmed planets beyond our Solar System, including their physical properties, orbital characteristics, host stars, discovery methods, and patterns in the known population. Module 2 adds k-means, cosine hierarchical clustering, PCA, and centered SVD to the Venus and Earth tabs.
+This project explores confirmed planets beyond our Solar System, including their physical properties, orbital characteristics, host stars, discovery methods, and patterns in the known population. Module 2 adds clustering, PCA, and SVD; Module 3 adds Naïve Bayes and decision trees for discovery-method classification.
 
 The primary data comes from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/). A supplementary Open Exoplanet Catalogue download is retained for provenance but is not merged into the analysis.
 

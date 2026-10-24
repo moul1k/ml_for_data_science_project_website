@@ -1,0 +1,69 @@
+{
+  "requested_bins": 3,
+  "bin_edges": {
+    "pl_rade": [
+      0.3098,
+      2.11,
+      4.540604630000004,
+      25.0
+    ],
+    "pl_bmasse": [
+      0.0364,
+      5.39,
+      23.800000000000047,
+      9333.03117155
+    ],
+    "pl_orbper": [
+      0.1120067,
+      5.690476,
+      20.61803480000001,
+      77114.07158
+    ],
+    "st_teff": [
+      1800.0,
+      5170.0,
+      5777.0,
+      15900.0
+    ],
+    "st_mass": [
+      0.035,
+      0.86,
+      1.04,
+      8.76
+    ],
+    "st_rad": [
+      0.0123,
+      0.831,
+      1.117,
+      88.475
+    ]
+  },
+  "actual_bin_counts": {
+    "pl_rade": 3,
+    "pl_bmasse": 3,
+    "pl_orbper": 3,
+    "st_teff": 3,
+    "st_mass": 3,
+    "st_rad": 3
+  },
+  "encoded_feature_names": [
+    "pl_rade_0.0",
+    "pl_rade_1.0",
+    "pl_rade_2.0",
+    "pl_bmasse_0.0",
+    "pl_bmasse_1.0",
+    "pl_bmasse_2.0",
+    "pl_orbper_0.0",
+    "pl_orbper_1.0",
+    "pl_orbper_2.0",
+    "st_teff_0.0",
+    "st_teff_1.0",
+    "st_teff_2.0",
+    "st_mass_0.0",
+    "st_mass_1.0",
+    "st_mass_2.0",
+    "st_rad_0.0",
+    "st_rad_1.0",
+    "st_rad_2.0"
+  ]
+}

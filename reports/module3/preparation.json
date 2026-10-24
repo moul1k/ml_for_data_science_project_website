@@ -1,0 +1,46 @@
+{
+  "source": "data/processed/exoplanets_clean.csv",
+  "source_sha256": "81e55a24c64eb0dc98b900f69a9ab59bf56bfa918d4b61be3743158c1d4e6f65",
+  "source_rows": 6366,
+  "target_method_rows": 5908,
+  "eligible_rows": 5836,
+  "excluded_target_rows": 72,
+  "other_methods_excluded": 458,
+  "features": [
+    "pl_rade",
+    "pl_bmasse",
+    "pl_orbper",
+    "st_teff",
+    "st_mass",
+    "st_rad"
+  ],
+  "units": {
+    "pl_rade": "Earth radii",
+    "pl_bmasse": "Earth masses",
+    "pl_orbper": "days",
+    "st_teff": "K",
+    "st_mass": "solar masses",
+    "st_rad": "solar radii"
+  },
+  "target": "discoverymethod",
+  "classes": [
+    "Radial Velocity",
+    "Transit"
+  ],
+  "train_n": 4702,
+  "test_n": 1134,
+  "train_groups": 3506,
+  "test_groups": 873,
+  "row_overlap": 0,
+  "planet_name_overlap": 0,
+  "name_proxy_group_overlap": 0,
+  "group_proxy": "pl_name with final space + lowercase b-z removed; not verified hostname",
+  "unchanged_name_groups": 53,
+  "outer_split": "first of five stratified group folds; seed 42",
+  "inner_cv": "five stratified group folds within train; seed 43",
+  "preprocessing": "positive complete cases; no imputation, outlier trimming or global scaling; quantile bins fitted inside NB training folds",
+  "python": "3.13.7",
+  "numpy": "2.3.3",
+  "pandas": "2.3.3",
+  "sklearn": "1.7.2"
+}

@@ -36,3 +36,15 @@ This stage reads the existing `data/processed/exoplanets_clean.csv`; it does not
 The pipeline selects complete rows for eight physical features, logs seven positive columns and standardizes all eight. Names and discovery methods remain outside the model matrix. It fits k-means for k=2–8, constructs an all-row cosine average-linkage hierarchy, and evaluates silhouette on a shared fixed 2,000-row subset. PCA and an independently computed centered NumPy SVD are checked for score/variance equivalence and reconstruction error. Five 80% subsample refits and a test omitting semi-major axis quantify sensitivity.
 
 `preparation.json` records the exact source SHA-256, transforms, scaler parameters, row counts and library versions. `results.json`, CSV reports, row metadata and evaluation indices support every reported finding. Figure overview schematics are original synthetic teaching illustrations, explicitly separate from observed exoplanet results. No course slide images are redistributed.
+
+## Module 3: supervised discovery-method classification
+
+```bash
+python code/05_supervised.py
+```
+
+This stage uses the same fixed cleaned snapshot and predicts the existing Transit / Radial Velocity discovery labels. Six positive complete-case physical measurements enter the models. Other discovery methods are excluded, not relabeled. Data, figures and reports are written to the corresponding `module3/` directories; previous outputs are preserved.
+
+The first seeded stratified group fold creates a fixed holdout. Groups use an explicitly imperfect planet-name host proxy because the snapshot contains no verified hostname. Five group-disjoint folds within the training set select NB bin count/smoothing and compare three prespecified trees by balanced accuracy. NB quantile bins are learned within each fitting fold; trees use original physical units. No test score selects a model. Exports include the split manifest, CV membership, physical and encoded matrices, all holdout predictions, fitted NB probabilities, tree rules, class metrics, a worked impurity calculation, conditional group-bootstrap intervals and a mass-omission sensitivity check.
+
+The NB event representation is an approximation for continuous catalogue data, not a physical count-generating model. The primary scientific limitations are documented in the research pages and `reports/module3/assignment_review.md`.

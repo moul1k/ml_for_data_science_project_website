@@ -1,0 +1,12 @@
+discoverymethod,Eligible measurements,Excluded measurements,used_for_module3
+Astrometry,5,1,False
+Disk Kinematics,0,1,False
+Eclipse Timing Variations,10,7,False
+Imaging,19,78,False
+Microlensing,0,289,False
+Orbital Brightness Modulation,6,3,False
+Pulsar Timing,0,8,False
+Pulsation Timing Variations,2,0,False
+Radial Velocity,1156,44,True
+Transit,4680,28,True
+Transit Timing Variations,28,1,False
